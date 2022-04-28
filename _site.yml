@@ -22,14 +22,12 @@ navbar:
 #     href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - icon: fa-envelope-o
-      href: mailto:rupamb@umich.edu                    # CHANGE HERE 
+      href: mailto:ekrobe@umich.edu                    # CHANGE HERE 
     - icon: fa-github
-      href: https://github.com/rupambh       # CHANGE HERE 
+      href: https://github.com/emilykroberts       # CHANGE HERE 
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/rupam2016bhattacharyya/
-    - text: CV
-      href: https://drive.google.com/file/d/1EaBT63r_Bf7c6FvuQL7TphOHW0GLYQit/view?usp=sharing
-output:
+      href: https://www.linkedin.com/in/emily-roberts/
+ output:
   html_document:
-    theme: darkly
+    theme: cerulean
     highlight: textmate
