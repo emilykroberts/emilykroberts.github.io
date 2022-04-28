@@ -1,7 +1,7 @@
-name: "Rupam Bhattacharyya"                                # CHANGE HERE 
+name: "Emily Roberts"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Homepage of Rupam Bhattacharyya"                             # CHANGE HERE 
+  title: "Homepage of Emily Roberts"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -29,5 +29,5 @@ navbar:
       href: https://www.linkedin.com/in/emily-roberts/
  output:
   html_document:
-    theme: cerulean
+    theme: darkly
     highlight: textmate
