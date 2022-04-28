@@ -1,7 +1,7 @@
-name: "Emily Roberts"                                # CHANGE HERE 
+name: "Emily Roberts" # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Homepage of Emily Roberts"                             # CHANGE HERE 
+  title: "Homepage of Emily Roberts" # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -27,7 +27,8 @@ navbar:
       href: https://github.com/emilykroberts       # CHANGE HERE 
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/emily-roberts/
- output:
+output:
   html_document:
-    theme: darkly
-    highlight: textmate
+#    theme: darkly
+#    highlight: textmate
+    
