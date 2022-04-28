@@ -12,24 +12,23 @@ title: "Research"
 
 At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016. I am currently an NSF Graduate Research Fellow. Recently, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
 
-Methods Research
+# Methods Research
 
 Currently, I am interested in survival analysis and causal inference areas. For my dissertation, I am working on methods for surrogate endpoints in clinical trials. My general research interests include clinical trials, surrogate endpoint validation, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and cancer applications.
 
-Applied Research
+# Applied Research
 
 I have worked on several application areas such as head and neck melanoma, lymphoma, prostate cancer, and breast cancer. Additionally, I have experience in collaborative research on COVID-19 testing patterns, microbiome data, and telomere length and race.
 
-Graduate Fellowships and Funding
+
+## Graduate Fellowships and Funding
 
 Rackham Predoctoral Fellowship Program
 
 National Science Foundation Graduate Research Fellowship Program                    
-
 University of Michigan School of Public Health Regents’ Fellowship Award
 
 National Institutes of Health Cancer Training in Biostatistics Grant Trainee  
-
 R.J. McElroy Fellowship    
 
 NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 8/14/20-Present, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.     
