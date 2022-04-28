@@ -15,7 +15,7 @@ navbar:
       icon: fa-gitlab
 #     icon: fa-file-pdf-o
       href: research.html
-    - text: "Social"
+    - text: "Interests"
       icon: fa-users
 #     icon: fa-rss
       href: social.html

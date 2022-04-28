@@ -16,5 +16,77 @@ Here is an overview of my academic career and teaching activities. For more deta
 
 - **PhD Biostatistics**, University of Michigan, 2016 - Present.
 
+Dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”
 
-## Teaching
+Advisors: Drs. Jeremy Taylor and Michael Elliott
+
+- **MS Biostatistics**, University of Michigan, 2018
+
+- **Bachelor of Arts, Mathematics and Psychology**, Coe College, Cedar Rapids, Iowa, 2016
+
+Summa Cum Laude 
+
+GPA 3.99, Mathematics Departmental Distinction, Scholar’s Program, 
+Honors thesis “Roommate Matching by Design” Advisor: Dr. Jonathan White
+
+## Graduate Fellowships
+
+University of Michigan Rackham Predoctoral Fellowship, 2021-2022
+
+National Science Foundation Graduate Research Fellowship Program, 2016-2021
+
+University of Michigan School of Public Health Regents’ Fellowship Award, 2016
+
+R.J. McElroy Fellowship, 2016
+
+## Research Experience: Graduate
+
+University of Michigan, Ann Arbor, Michigan	
+
+National Institutes of Health Cancer Training in Biostatistics Grant Trainee,Sept 2016-Aug 2017
+
+Advisor: Dr. Jeremy Taylor
+
+Graduate Student Research Assistant Advisor: Dr. Philip Boonstra, May-Aug 2019
+
+Advisor: Dr. Lili Zhao, 2019, Sept 2020-2022
+
+Advisor: Dr. Matt Schipper, June 2020-Present
+
+Co-PI Telomere Research Network Pilot Project Grant under Dr. Belinda Needham, Aug 2020-Present
+
+Research Experience: Undergraduate
+
+Harvard Summer Program in Biostatistics and Computational Biology Boston, Massachusetts, June-July 2015
+
+Action Research: Mission of Hope Cedar Rapids, Iowa, Jan-May 2015
+
+Columbia Summer Institute in Biostatistics New York City, New York, May-July 2014
+
+Coe College Research in Mathematics Program Cedar Rapids, Iowa, June-Aug 2013
+
+## Awards and Distinctions
+
+University of Michigan Department of Biostatistics Excellence in Research Honorable Mention 2021
+
+School of Public Health Unsung Hero Award 2020	
+
+Barry Goldwater Honorable Mention
+
+Dean’s List Coe College				
+
+Coe Hunt Award in Mathematics	
+
+Honors Societies: Phi Beta Kappa, Mortar Board, Psi Chi, Alpha Lambda Delta, Phi Kappa Phi
+
+## Grants and Awarded Funding 
+
+NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 8/14/20-Present, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.
+
+Rackham Graduate Travel Grant 2018, 2019, 2021, 2022, Michigan Institute of Data Science Travel Grant 2019, SAMSI Travel Grant 2019, Telomere Network Analysis Award and Travel Grant 2020, 2021
+
+## Society Membership
+
+American Statistical Association, ENAR, Society for Clinical Trials, Caucus for Women in Statistics
+
+
