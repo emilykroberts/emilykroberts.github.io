@@ -11,7 +11,7 @@ title: "Research"
 
 <br>
 
-At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016. I am currently an NSF Graduate Research Fellow. Recently, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
+At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. Recently, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
 
 # Methods Research
 
@@ -64,12 +64,13 @@ Roberts, E. & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints
 
 -**Roberts, E. K.**, Elliott, M.R., Taylor, J.M.G. (2021). Incorporating Baseline Covariates to Validate Surrogate Endpoints with a Constant Biomarker Under Control Arm. Statistics in Medicine.
 
-*Under Revision and Resubmission*
--**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy.
+-**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy. Biometrics.
 
 -Vornhagen, J., **Roberts, E.K.**, … [13 authors] Bachman, M.A. Comparative Genomics Reveals Plasmid-Encoded Genes Associated with Klebsiella Infection in Colonized Patients. (https://doi.org/10.21203/rs.3.rs-1254643/v1)
 
 -**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan. (https://doi.org/10.1101/2022.01.29.22269971)
+
+*Under Revision and Resubmission*
 
 *Under Review*
 
@@ -80,7 +81,9 @@ In Preparation
 
 ## Presentations: Graduate
 
-- Upcoming: JSM 2022, Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials at Society for Clinical Trials 2022, WSDS 2022, ISEE 2022
+- Upcoming: JSM 2022, WSDS 2022, ISEE 2022
+
+- Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials at Society for Clinical Trials 2022. Best Poster Award.
 
 - Other Internal Presentations at University of Michigan: Graduate Student Working Group (Constructing a Model for Who was Tested for COVID-19 Over Time, 2020; Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Causal Inference Working Group 2020 (Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Senior Research Showcase (Causal inference methods to validate surrogate endpoints with time-to-event data, 2022), various lab meetings
 

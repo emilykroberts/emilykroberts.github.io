@@ -14,7 +14,7 @@ Here is an overview of my academic career and teaching activities. For more deta
 
 ## Education
 
-- **PhD Biostatistics**, University of Michigan, 2016 - Present.
+- **PhD Biostatistics**, University of Michigan, 2016 - 2022
 
 Dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”
 
