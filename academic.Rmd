@@ -1,5 +1,5 @@
 ---
-title: "Academics"
+title: "Academics and Teaching"
 ---
 
 <br>
@@ -29,6 +29,10 @@ Summa Cum Laude
 GPA 3.99, Mathematics Departmental Distinction, Scholar’s Program, 
 Honors thesis “Roommate Matching by Design” Advisor: Dr. Jonathan White
 
+## Teaching
+
+I will be developing and teaching a graduate-level causal inference course in 2023.
+
 ## Graduate Fellowships
 
 University of Michigan Rackham Predoctoral Fellowship, 2021-2022
@@ -43,7 +47,7 @@ R.J. McElroy Fellowship, 2016
 
 University of Michigan, Ann Arbor, Michigan	
 
-National Institutes of Health Cancer Training in Biostatistics Grant Trainee,Sept 2016-Aug 2017
+National Institutes of Health Cancer Training in Biostatistics Grant Trainee, Sept 2016-Aug 2017
 
 Advisor: Dr. Jeremy Taylor
 
@@ -51,9 +55,9 @@ Graduate Student Research Assistant Advisor: Dr. Philip Boonstra, May-Aug 2019
 
 Advisor: Dr. Lili Zhao, 2019, Sept 2020-2022
 
-Advisor: Dr. Matt Schipper, June 2020-Present
+Advisor: Dr. Matt Schipper, June 2020-2022
 
-Co-PI Telomere Research Network Pilot Project Grant under Dr. Belinda Needham, Aug 2020-Present
+Co-PI Telomere Research Network Pilot Project Grant under Dr. Belinda Needham, Aug 2020-2022
 
 Research Experience: Undergraduate
 
@@ -81,7 +85,7 @@ Honors Societies: Phi Beta Kappa, Mortar Board, Psi Chi, Alpha Lambda Delta, Phi
 
 ## Grants and Awarded Funding 
 
-NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 8/14/20-Present, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.
+NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 2020-2021, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.
 
 Rackham Graduate Travel Grant 2018, 2019, 2021, 2022, Michigan Institute of Data Science Travel Grant 2019, SAMSI Travel Grant 2019, Telomere Network Analysis Award and Travel Grant 2020, 2021
 

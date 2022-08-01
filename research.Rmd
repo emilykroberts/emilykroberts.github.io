@@ -11,7 +11,7 @@ title: "Research"
 
 <br>
 
-At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. Recently, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
+I am currently building collaborations at the University of Iowa. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. Recently, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
 
 # Methods Research
 
@@ -64,17 +64,18 @@ Roberts, E. & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints
 
 -**Roberts, E. K.**, Elliott, M.R., Taylor, J.M.G. (2021). Incorporating Baseline Covariates to Validate Surrogate Endpoints with a Constant Biomarker Under Control Arm. Statistics in Medicine.
 
--**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy. Biometrics.
+-Vornhagen, J., **Roberts, E.K.**, … [13 authors] Bachman, M.A. (2022). Comparative Genomics Reveals Plasmid-Encoded Genes Associated with Klebsiella Infection in Colonized Patients. Nature Communications. (https://doi.org/10.21203/rs.3.rs-1254643/v1)
 
--Vornhagen, J., **Roberts, E.K.**, … [13 authors] Bachman, M.A. Comparative Genomics Reveals Plasmid-Encoded Genes Associated with Klebsiella Infection in Colonized Patients. (https://doi.org/10.21203/rs.3.rs-1254643/v1)
+-**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. (2022). Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy. Biometrics.
 
--**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan. (https://doi.org/10.1101/2022.01.29.22269971)
+-**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan. AJPM Focus. (https://doi.org/10.1101/2022.01.29.22269971)
 
 *Under Revision and Resubmission*
 
 *Under Review*
 
 -Morales, K.A., **Roberts, E.**,..., [21 authors], Mierzwa, M. A matched comparison of toxicity in p16+ oropharynx cancer treated with definitive chemoradiation with or without nivolumab.
+
 In Preparation
 
 -**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002).
