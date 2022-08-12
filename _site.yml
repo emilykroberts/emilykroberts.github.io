@@ -20,13 +20,12 @@ navbar:
 #     icon: fa-file-pdf-o
       href: teaching.html
     - text: "CV"
-      icon: fa-file-pdf-o
+      icon: fa-user
       href: cv
     - text: "Interests"
       icon: fa-users
 #     icon: fa-rss
       href: social.html
-#     href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - icon: fa-envelope-o
       href: mailto:ekrobe@umich.edu                    # CHANGE HERE 
