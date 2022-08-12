@@ -12,16 +12,16 @@ navbar:
 #     icon: fa-user 
       href: academic.html
     - text: "Research"
-      icon: <i class="fa-light fa-display-medical"></i>
+      icon: fa-display-medical
 #     icon: fa-file-pdf-o
       href: research.html
     - text: "Teaching"
-      icon: fa-person-chalkboard
+      icon: fa-book-open
 #     icon: fa-file-pdf-o
       href: teaching.html
-    - text: "CV"
-      icon: fa-user
-      href: cv.pdf
+#    - text: "CV"
+#      icon: fa-user
+#      href: cv.pdf
     - text: "Interests"
       icon: fa-users
 #     icon: fa-rss
@@ -33,7 +33,7 @@ navbar:
       href: https://github.com/emilykroberts       # CHANGE HERE 
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/emily-roberts/
-    - icon: fa-hashtag
+    - icon: fa-twitter
       href: https://twitter.com/emilyk_roberts
 output:
   html_document:
