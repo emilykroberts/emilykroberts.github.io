@@ -29,10 +29,6 @@ Summa Cum Laude
 GPA 3.99, Mathematics Departmental Distinction, Scholar’s Program, 
 Honors thesis “Roommate Matching by Design” Advisor: Dr. Jonathan White
 
-## Teaching
-
-I will be developing and teaching a graduate-level causal inference course in 2023.
-
 ## Graduate Fellowships
 
 University of Michigan Rackham Predoctoral Fellowship, 2021-2022
