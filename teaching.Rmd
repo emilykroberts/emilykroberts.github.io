@@ -14,7 +14,7 @@ title: "Teaching"
 
 I will be teaching [causal inference](https://catalog.registrar.uiowa.edu/courses/bios/) in Spring 2023 in the Department of Biostatistics at the University of Iowa.
 
-Here are a few of my previous teaching related experiences:
+### Here are a few of my previous teaching related experiences:
 
 - University of Michigan Department of Biostatistics 2019
 Tutor for Stochastic Processes
