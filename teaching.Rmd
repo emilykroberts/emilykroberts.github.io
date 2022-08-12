@@ -13,3 +13,20 @@ title: "Teaching"
 ## Courses
 
 I will be teaching [causal inference](https://catalog.registrar.uiowa.edu/courses/bios/) in Spring 2023 in the Department of Biostatistics at the University of Iowa.
+
+Here are a few of my previous teaching related experiences:
+
+- University of Michigan Department of Biostatistics 2019
+Tutor for Stochastic Processes
+
+- Girls Who Code, University of Michigan, Ann Arbor chapter 2018-2019
+Club and Data Science Summer Experience in Detroit hosted by Girls Who Code Facilitator for High-Schoolers
+
+- Mathematics Help, Coe College Mathematics Department 2015-2016
+Tutored in math help sessions
+
+- SAS Teaching Assistant, Coe College Psychology Department 2015-2016
+Taught SAS in Memory and Cognition Lab, graded laboratory reports
+
+- Kids on Course Elementary Math Tutor, Harrison Elementary 2014-2016
+Tutored underprivileged students through United Way and the Zach Johnson Foundation
