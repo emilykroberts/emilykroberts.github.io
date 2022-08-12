@@ -12,4 +12,4 @@ title: "Teaching"
 
 ## Courses
 
-I will be teaching causal inference in Spring 2023.
+I will be teaching [causal inference](https://catalog.registrar.uiowa.edu/courses/bios/) in Spring 2023 in the Department of Biostatistics at the University of Iowa.
