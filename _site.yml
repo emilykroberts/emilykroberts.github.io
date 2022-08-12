@@ -21,7 +21,7 @@ navbar:
       href: teaching.html
     - text: "CV"
       icon: fa-user
-      href: cv
+      href: cv.pdf
     - text: "Interests"
       icon: fa-users
 #     icon: fa-rss
