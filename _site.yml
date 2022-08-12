@@ -1,7 +1,7 @@
 name: "Emily Roberts" # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Homepage of Emily Roberts" # CHANGE HERE 
+  title: "Emily Roberts, PhD" # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -19,6 +19,9 @@ navbar:
       icon: fa-person-chalkboard
 #     icon: fa-file-pdf-o
       href: teaching.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv
     - text: "Interests"
       icon: fa-users
 #     icon: fa-rss
