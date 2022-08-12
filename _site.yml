@@ -12,11 +12,11 @@ navbar:
 #     icon: fa-user 
       href: academic.html
     - text: "Research"
-      icon: fa-gitlab
+      icon: <i class="fa-light fa-display-medical"></i>
 #     icon: fa-file-pdf-o
       href: research.html
     - text: "Teaching"
-      icon: fa-gitlab
+      icon: fa-person-chalkboard
 #     icon: fa-file-pdf-o
       href: teaching.html
     - text: "Interests"
@@ -31,6 +31,8 @@ navbar:
       href: https://github.com/emilykroberts       # CHANGE HERE 
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/emily-roberts/
+    - icon: fa-hashtag
+      href: https://twitter.com/emilyk_roberts
 output:
   html_document:
 #    theme: darkly
