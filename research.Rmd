@@ -82,11 +82,15 @@ In Preparation
 
 ## Presentations: Graduate
 
-- Upcoming: JSM 2022, WSDS 2022, ISEE 2022
+- Upcoming: JWSDS 2022, ISEE 2022
 
-- Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials at Society for Clinical Trials 2022. Best Poster Award.
 
 - Other Internal Presentations at University of Michigan: Graduate Student Working Group (Constructing a Model for Who was Tested for COVID-19 Over Time, 2020; Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Causal Inference Working Group 2020 (Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Senior Research Showcase (Causal inference methods to validate surrogate endpoints with time-to-event data, 2022), various lab meetings
+
+
+- Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials
+
+Poster Presentation at Society for Clinical Trials 2022. Best Poster Award.
 
 -Causal Inference Methods to Validate Surrogate Endpoints in Clinical Trials 
 
@@ -110,6 +114,8 @@ Invited Oral Seminar Presentation for University of Iowa (held virtually) Januar
 Invited Oral Seminar Presentation for University of Minnesota (held virtually) January 2022
 
 Contributed Oral Presentation ENAR March 2022
+
+Contributed Oral Presentation JSM August 2022
 
 -Mediation Analysis of Race and Environmental Exposures on Telomere Length using Data from the National Health and Nutrition Examination Survey (1999-2002) 
 
