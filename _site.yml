@@ -12,23 +12,23 @@ navbar:
 #     icon: fa-user 
       href: academic.html
     - text: "Research"
-      icon: fa-display-medical
+      icon: fa-laptop
 #     icon: fa-file-pdf-o
       href: research.html
     - text: "Teaching"
       icon: fa-book-open
 #     icon: fa-file-pdf-o
       href: teaching.html
-#    - text: "CV"
-#      icon: fa-user
-#      href: cv.pdf
+    - text: "CV"
+      icon: fa-user
+      href: cv.pdf
     - text: "Interests"
       icon: fa-users
 #     icon: fa-rss
       href: social.html
   right:
     - icon: fa-envelope-o
-      href: mailto:ekrobe@umich.edu                    # CHANGE HERE 
+      href: mailto:emily-roberts-1@uiowa.edu                  # CHANGE HERE 
     - icon: fa-github
       href: https://github.com/emilykroberts       # CHANGE HERE 
     - icon: fa-linkedin
