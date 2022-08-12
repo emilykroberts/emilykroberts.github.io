@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+---
+
+<br>
+
+```{r out.width = "50%", fig.align = "center", echo = FALSE}
+#knitr::include_graphics("Social.jpg")
+```
+
+<br>
+
+## Courses
+
+I will be teaching causal inference in Spring 2023.

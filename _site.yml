@@ -15,6 +15,10 @@ navbar:
       icon: fa-gitlab
 #     icon: fa-file-pdf-o
       href: research.html
+    - text: "Teaching"
+      icon: fa-gitlab
+#     icon: fa-file-pdf-o
+      href: teaching.html
     - text: "Interests"
       icon: fa-users
 #     icon: fa-rss
