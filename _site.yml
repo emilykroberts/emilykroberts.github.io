@@ -19,9 +19,9 @@ navbar:
       icon: fa-book-open
 #     icon: fa-file-pdf-o
       href: teaching.html
-    - text: "CV"
-      icon: fa-user
-      href: CV.html
+ #   - text: "CV"
+ #     icon: fa-user
+ #     href: CV.html
     - text: "Interests"
       icon: fa-users
 #     icon: fa-rss
