@@ -11,13 +11,13 @@ title: "Research"
 
 <br>
 
-I am currently building collaborations at the University of Iowa. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. Recently, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
+I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. Recently, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
 
 # Methods Research
 
 Currently, I am interested in survival analysis and causal inference areas. For my dissertation, I am working on methods for surrogate endpoints in clinical trials. My general research interests include clinical trials, surrogate endpoint validation, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and cancer applications.
 
-# Applied Research
+# Collaborative Research
 
 I have worked on several application areas such as head and neck melanoma, lymphoma, prostate cancer, and breast cancer. Additionally, I have experience in collaborative research on COVID-19 testing patterns, microbiome data, and telomere length and race.
 
@@ -35,7 +35,7 @@ R.J. McElroy Fellowship
 
 NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 8/14/20-Present, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.     
 
-Below is a list of my published projects conference presentations. Please refer to my [CV](https://docs.google.com/document/d/1tdVsxROy1tzUf_wX3RBBIlLnI0lg2Gi2m8y3VlBG380/edit), or [Google Scholar page](https://scholar.google.com/citations?user=yh2UbZEAAAAJ&hl=en) to get a complete list of my papers. 
+Below is a list of my published projects conference presentations. Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=yh2UbZEAAAAJ&hl=en) to get a complete list of my papers. 
 
 ## Publications
 
@@ -72,21 +72,17 @@ Roberts, E. & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints
 
 *Under Revision and Resubmission*
 
+-**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002).
+
 *Under Review*
 
 -Morales, K.A., **Roberts, E.**,..., [21 authors], Mierzwa, M. A matched comparison of toxicity in p16+ oropharynx cancer treated with definitive chemoradiation with or without nivolumab.
 
-In Preparation
-
--**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002).
-
 ## Presentations: Graduate
 
-- Upcoming: WSDS 2022, ISEE 2022
-
+- Upcoming: WSDS 2022
 
 - Other Internal Presentations at University of Michigan: Graduate Student Working Group (Constructing a Model for Who was Tested for COVID-19 Over Time, 2020; Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Causal Inference Working Group 2020 (Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Senior Research Showcase (Causal inference methods to validate surrogate endpoints with time-to-event data, 2022), various lab meetings
-
 
 -Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials
 
