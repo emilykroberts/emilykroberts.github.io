@@ -10,12 +10,14 @@ knitr::include_graphics("ERoberts.jpg")
 
 <br>
 
-Hi! I am Emily Roberts.  I am a new [assistant professor of biostatistics at the University of Iowa](https://www.public-health.uiowa.edu/people/emily-roberts/). I completed my PhD at the [Department of Biostatistics, University of Michigan](https://sph.umich.edu/biostat/) upon completion of my dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”. I am interested in statistical methodology that can be applied in a cancer setting. Welcome to my page where I have included a bit about myself and my work.
+Hi! I am Emily Roberts.  I am a new [assistant professor of biostatistics at the University of Iowa](https://www.public-health.uiowa.edu/people/emily-roberts/). I completed my PhD at the [Department of Biostatistics, University of Michigan](https://sph.umich.edu/biostat/) with my PhD dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”. I am interested in statistical methodology that can be applied in a clinical setting. Welcome to my page where I have included a bit about myself and my work.
 
 I graduated Summa Cum Laude in 2016 from Coe College with a BA in mathematics and psychology as a member of Phi Beta Kappa National Honor Society. Additionally, I earned my MS in biostatistics from Michigan in 2018. My passion for medical research and ultimate career goals stem from my diagnosis of type I diabetes at the age of four. 
 
 
 Other links and news
+
+[Running Beyond Type One: My T1D and PhD Journey](https://beyondtype1.org/nyc-marathon-phd-training-roberts/?fbclid=IwAR3PoOFonkJz3rMLkEic915zJj9_J_xiYNoIGRj29nnkdhoQbh51x1-Kjws)
 
 [Rackham Predoctoral Fellowship Recipients](https://rackham.umich.edu/predoctoral-fellowship-celebration/)
 
@@ -24,3 +26,4 @@ Other links and news
 [McElroy Fellowship](https://www.mcelroytrust.org/success-stories)
 
 [The Gazette](https://www.thegazette.com/higher-education/coe-grad-receives-prestigious-fellowships/)
+

@@ -13,7 +13,7 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -328,24 +325,24 @@ $(document).ready(function () {
 I am involved in the Clinical Trials Statistical and Data Management
 Center. At the University of Michigan, I began research on the NIH
 Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate
-Research Fellow. Recently, I was awarded the University of Michigan
+Research Fellow. As a student, I was awarded the University of Michigan
 Department of Biostatistics Excellence in Research Award Honorable
 Mention.</p>
 <div id="methods-research" class="section level1">
 <h1>Methods Research</h1>
 <p>Currently, I am interested in survival analysis and causal inference
-areas. For my dissertation, I am working on methods for surrogate
+areas. My main methodologic focus has been on methods for surrogate
 endpoints in clinical trials. My general research interests include
 clinical trials, surrogate endpoint validation, causal inference,
 survival analysis, longitudinal measures, Bayesian methods, futility
-analysis, biomarkers, and cancer applications.</p>
+analysis, biomarkers, and diabetes and cancer applications.</p>
 </div>
 <div id="collaborative-research" class="section level1">
 <h1>Collaborative Research</h1>
-<p>I have worked on several application areas such as head and neck
-melanoma, lymphoma, prostate cancer, and breast cancer. Additionally, I
-have experience in collaborative research on COVID-19 testing patterns,
-microbiome data, and telomere length and race.</p>
+<p>I have worked on several collaborative and scientific areas such as
+head and neck melanoma, lymphoma, prostate cancer, and breast cancer.
+Additionally, I have experience in collaborative research on COVID-19
+testing patterns, microbiome data, and telomere length and race.</p>
 <div id="graduate-fellowships-and-funding" class="section level2">
 <h2>Graduate Fellowships and Funding</h2>
 <p>Rackham Predoctoral Fellowship Program</p>
@@ -446,15 +443,14 @@ treated with definitive chemoradiation with or without nivolumab.</p>
 <div id="presentations-graduate" class="section level2">
 <h2>Presentations: Graduate</h2>
 <ul>
-<li><p>Upcoming: WSDS 2022</p></li>
-<li><p>Other Internal Presentations at University of Michigan: Graduate
+<li>Other Internal Presentations at University of Michigan: Graduate
 Student Working Group (Constructing a Model for Who was Tested for
 COVID-19 Over Time, 2020; Incorporating Patient Subgroups During
 Surrogate Endpoint Validation, 2020), Causal Inference Working Group
 2020 (Incorporating Patient Subgroups During Surrogate Endpoint
 Validation, 2020), Senior Research Showcase (Causal inference methods to
 validate surrogate endpoints with time-to-event data, 2022), various lab
-meetings</p></li>
+meetings</li>
 </ul>
 <p>-Evaluating Intermediate Clinical Endpoints for Futility Analysis in
 Clinical Trials</p>
@@ -483,6 +479,8 @@ virtually) January 2022</p>
 virtually) January 2022</p>
 <p>Contributed Oral Presentation ENAR March 2022</p>
 <p>Contributed Oral Presentation JSM August 2022</p>
+<p>Contributed Speed Oral/Poster Presentation ACTStat August 2022</p>
+<p>Contributed Oral Presentation WSDS October 2022</p>
 <p>-Mediation Analysis of Race and Environmental Exposures on Telomere
 Length using Data from the National Health and Nutrition Examination
 Survey (1999-2002)</p>

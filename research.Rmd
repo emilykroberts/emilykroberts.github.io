@@ -11,15 +11,15 @@ title: "Research"
 
 <br>
 
-I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. Recently, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
+I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. As a student, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
 
 # Methods Research
 
-Currently, I am interested in survival analysis and causal inference areas. For my dissertation, I am working on methods for surrogate endpoints in clinical trials. My general research interests include clinical trials, surrogate endpoint validation, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and cancer applications.
+Currently, I am interested in survival analysis and causal inference areas. My main methodologic focus has been on methods for surrogate endpoints in clinical trials. My general research interests include clinical trials, surrogate endpoint validation, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and diabetes and cancer applications.
 
 # Collaborative Research
 
-I have worked on several application areas such as head and neck melanoma, lymphoma, prostate cancer, and breast cancer. Additionally, I have experience in collaborative research on COVID-19 testing patterns, microbiome data, and telomere length and race.
+I have worked on several collaborative and scientific areas such as head and neck melanoma, lymphoma, prostate cancer, and breast cancer. Additionally, I have experience in collaborative research on COVID-19 testing patterns, microbiome data, and telomere length and race.
 
 
 ## Graduate Fellowships and Funding
@@ -80,8 +80,6 @@ Roberts, E. & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints
 
 ## Presentations: Graduate
 
-- Upcoming: WSDS 2022
-
 - Other Internal Presentations at University of Michigan: Graduate Student Working Group (Constructing a Model for Who was Tested for COVID-19 Over Time, 2020; Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Causal Inference Working Group 2020 (Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Senior Research Showcase (Causal inference methods to validate surrogate endpoints with time-to-event data, 2022), various lab meetings
 
 -Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials
@@ -112,6 +110,10 @@ Invited Oral Seminar Presentation for University of Minnesota (held virtually) J
 Contributed Oral Presentation ENAR March 2022
 
 Contributed Oral Presentation JSM August 2022
+
+Contributed Speed Oral/Poster Presentation ACTStat August 2022
+
+Contributed Oral Presentation WSDS October 2022
 
 -Mediation Analysis of Race and Environmental Exposures on Telomere Length using Data from the National Health and Nutrition Examination Survey (1999-2002) 
 
