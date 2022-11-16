@@ -4,12 +4,7 @@ title: "Research"
 
 <br>
 
-```{r out.width = "50%", fig.align = "center", echo = FALSE}
-#knitr::include_graphics("Conference.jpg")
 
-```
-
-<br>
 
 I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. As a student, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
 
@@ -70,15 +65,16 @@ Roberts, E. & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints
 
 -**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan. AJPM Focus. (https://doi.org/10.1101/2022.01.29.22269971)
 
-*Under Revision and Resubmission*
 
--**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002).
+-**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002). Scientific Reports. (accepted).
+
+*Under Revision and Resubmission*
 
 *Under Review*
 
 -Morales, K.A., **Roberts, E.**,..., [21 authors], Mierzwa, M. A matched comparison of toxicity in p16+ oropharynx cancer treated with definitive chemoradiation with or without nivolumab.
 
-## Presentations: Graduate
+## Presentations
 
 - Other Internal Presentations at University of Michigan: Graduate Student Working Group (Constructing a Model for Who was Tested for COVID-19 Over Time, 2020; Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Causal Inference Working Group 2020 (Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Senior Research Showcase (Causal inference methods to validate surrogate endpoints with time-to-event data, 2022), various lab meetings
 
@@ -164,8 +160,6 @@ Poster Presentation at ENAR Philadelphia, PA March 2019, Michigan Student Sympos
 -Association of Telomere Length and Race:  SES as a Potential Effect Modifier
 
 Poster Presentation at MIDAS Data for Public Good Symposium 2019
-
-## Presentations: Undergraduate
 
 -Differential Outcomes by SES in Children Undergoing Treatment for Acute Lymphoblastic Leukemia
 
