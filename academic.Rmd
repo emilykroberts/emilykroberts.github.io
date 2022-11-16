@@ -1,14 +1,7 @@
 ---
-title: "Academics and Teaching"
+title: "Academics"
 ---
 
-<br>
-
-```{r out.width = "50%", fig.align = "center", echo = FALSE}
-#knitr::include_graphics("Convocation.jpg")
-```
-
-<br>
 
 Here is an overview of my academic career and teaching activities. For more details on these, please take a look at my [CV](https://www.public-health.uiowa.edu/wp-content/uploads/2022/07/CV-Roberts.pdf).
 
@@ -80,6 +73,10 @@ Coe Hunt Award in Mathematics
 Honors Societies: Phi Beta Kappa, Mortar Board, Psi Chi, Alpha Lambda Delta, Phi Kappa Phi
 
 ## Grants and Awarded Funding 
+
+National Institute of Neurological Disorders and Stroke (NINDS) NeuroNEXT. U01 NS077352-11. Coffey, C. PI. 25% 09/2022-Present. Role: Co-Investigator.
+
+University of Iowa Center for Public Health Statistics. Oleson, J. PI. 10% 10/2022-Present. Role: Co-Investigator.
 
 NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 2020-2021, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.
 
