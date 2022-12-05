@@ -2,10 +2,6 @@
 title: "Research"
 ---
 
-<br>
-
-
-
 I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. As a student, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
 
 # Methods Research
@@ -66,13 +62,15 @@ Roberts, E. & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints
 -**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan. AJPM Focus. (https://doi.org/10.1101/2022.01.29.22269971)
 
 
--**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002). Scientific Reports. (accepted).
+-**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002). Scientific Reports.
 
 *Under Revision and Resubmission*
 
 *Under Review*
 
 -Morales, K.A., **Roberts, E.**,..., [21 authors], Mierzwa, M. A matched comparison of toxicity in p16+ oropharynx cancer treated with definitive chemoradiation with or without nivolumab.
+
+-**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2022). Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models. arXiv preprint arXiv:2211.15826.
 
 ## Presentations
 
