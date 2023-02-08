@@ -12,21 +12,7 @@ Currently, I am interested in survival analysis and causal inference areas. My m
 
 I have worked on several collaborative and scientific areas such as head and neck melanoma, lymphoma, prostate cancer, and breast cancer. Additionally, I have experience in collaborative research on COVID-19 testing patterns, microbiome data, and telomere length and race.
 
-
-## Graduate Fellowships and Funding
-
-Rackham Predoctoral Fellowship Program
-
-National Science Foundation Graduate Research Fellowship Program                    
-University of Michigan School of Public Health Regents’ Fellowship Award
-
-National Institutes of Health Cancer Training in Biostatistics Grant Trainee  
-
-R.J. McElroy Fellowship    
-
-NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 8/14/20-Present, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.     
-
-Below is a list of my published projects conference presentations. Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=yh2UbZEAAAAJ&hl=en) to get a complete list of my papers. 
+Below is a list of my published projects. Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=yh2UbZEAAAAJ&hl=en) to get a complete list of my papers and presentations. 
 
 ## Publications
 
@@ -61,113 +47,15 @@ Roberts, E. & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints
 
 -**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan. AJPM Focus. (https://doi.org/10.1101/2022.01.29.22269971)
 
-
 -**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002). Scientific Reports.
 
 *Under Revision and Resubmission*
+
+-**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2022). Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models. arXiv preprint arXiv:2211.15826.
 
 *Under Review*
 
 -Morales, K.A., **Roberts, E.**,..., [21 authors], Mierzwa, M. A matched comparison of toxicity in p16+ oropharynx cancer treated with definitive chemoradiation with or without nivolumab.
 
--**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2022). Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models. arXiv preprint arXiv:2211.15826.
 
-## Presentations
 
-- Other Internal Presentations at University of Michigan: Graduate Student Working Group (Constructing a Model for Who was Tested for COVID-19 Over Time, 2020; Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Causal Inference Working Group 2020 (Incorporating Patient Subgroups During Surrogate Endpoint Validation, 2020), Senior Research Showcase (Causal inference methods to validate surrogate endpoints with time-to-event data, 2022), various lab meetings
-
--Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials
-
-Poster Presentation at Society for Clinical Trials 2022. Best Poster Award.
-
--Causal Inference Methods to Validate Surrogate Endpoints in Clinical Trials 
-
-Invited Oral Presentation at Joint Mathematics Meetings (held virtually) April 2022
-
--Adapting Causal Ideas from Surrogacy Validation of Intermediate Endpoints to Futility Analysis in Clinical Trials
-Invited Oral Seminar Presentation for St. Jude Children's Hospital January 2022
-
--Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy
-
-Invited Oral Seminar Presentation for FDA (held virtually) October 2021
-
-Invited Oral Seminar Presentation for St. Jude Children's Hospital (held virtually) November 2021
-
-Invited Oral Seminar Presentation for University of Michigan November 2021
-
-Invited Oral Seminar Presentation for Vanderbilt University December 2021
-
-Invited Oral Seminar Presentation for University of Iowa (held virtually) January 2022
-
-Invited Oral Seminar Presentation for University of Minnesota (held virtually) January 2022
-
-Contributed Oral Presentation ENAR March 2022
-
-Contributed Oral Presentation JSM August 2022
-
-Contributed Speed Oral/Poster Presentation ACTStat August 2022
-
-Contributed Oral Presentation WSDS October 2022
-
--Mediation Analysis of Race and Environmental Exposures on Telomere Length using Data from the National Health and Nutrition Examination Survey (1999-2002) 
-
-Poster Presentation at Telomere Research Network Conference December 2021
-
--Incorporating Longitudinal Outcomes and Baseline Covariates to Validate Surrogate Endpoints
-
-Poster Presentation at Biopharmaceutical Workshop (held virtually) September 2021 
-
-Invited Oral Seminar Presentation for St. Jude Children's Hospital (held virtually) September 2021
-
--Incorporating Baseline Covariates to Validate Surrogate Endpoints with a Constant Biomarker Under Control Arm
-
-Oral Presentation at ENAR (held virtually) March 2021
-
-Oral Presentation at Society for Clinical Trials Annual Conference (held virtually) May 2021
-
-Oral Presentation at 2021 International Society for Clinical Biostatistics Conference (held virtually) July 2021
-
--Validating Surrogate Endpoints with Longitudinal Outcomes
-
-Poster Presentation at Michigan Institute for Data Science (MIDAS) Annual Symposium (held virtually) November 2020
-
-Speed Oral and Poster Presentation at Michigan Student Symposium for Interdisciplinary Statistics Symposium (held virtually) February 2021: "Best Speed Oral Presentation" Presentation/Poster Award
-
-Speed Talk at Joint Statistical Meetings August 2021 (held virtually)
-
--Exposure to carcinogens and racial differences in leukocyte telomere length: Mediation analysis of race and environmental exposures
-
-Invited Oral Presentation (held virtually) at Telomere Research Network Conference December 2020
-
-Oral Presentation (held virtually) at MIDAS Data for Public Good Symposium February 2021
-
--Incorporating Subgroups in a Surrogate Endpoint Setting
-
-Invited Oral Presentation at ENAR Nashville, TN (held virtually) March 2020
-
-Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS) Annual Symposium February 2020: "Best Speed Oral Presentation" Presentation/Poster Award
-
-Michigan Institute for Data Science (MIDAS) Annual Symposium November 2019: "Most Likely to Make an Impact in the Field" Poster Award
-
-Poster Presentation at Joint Statistical Meetings, Denver, CO July 2019, Michigan Rogel Cancer Center Spring Symposium 2019, SAMSI Causal Inference Workshop Durham, NC December 2019
-
--A Bayesian Mixture Model to Estimate the Effect of an Ordinal Predictor 
-
-Poster Presentation at ENAR Philadelphia, PA March 2019, Michigan Student Symposium for Interdisciplinary Statistical Sciences 2019
-
--Association of Telomere Length and Race:  SES as a Potential Effect Modifier
-
-Poster Presentation at MIDAS Data for Public Good Symposium 2019
-
--Differential Outcomes by SES in Children Undergoing Treatment for Acute Lymphoblastic Leukemia
-
--Oral Presentation at Harvard Pipeline to Biostatistics 2015, Coe Math Department Colloquium 2015, Rice University Gulf Coast Undergraduate Research Symposium 2015, Nebraska Conference for Undergraduate Women in Mathematics 2016 
-
--Roommate Matching by Design: A Computational Approach and Analysis
-Poster Presentation at Coe Research Symposium 2014, Oral Presentation at Psychology Research Symposium 2014, Coe Research Symposium 2016 (Honors Thesis)
-
--Evaluation of the CARING Preschool Program
-Poster Presentation Columbia University 2014, Oral Presentation at Coe Math Department Colloquium 2014, Coe Research Symposium 2015  
-
--Mission of Hope Action Research
-Oral Presentation at Coe Research Symposium 2015
