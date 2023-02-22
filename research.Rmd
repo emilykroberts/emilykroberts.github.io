@@ -2,7 +2,8 @@
 title: "Research"
 ---
 
-I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. As a student, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention.
+I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. During my PhD, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention. Recently, I was awarded at American Statistical Association Lifetime Data Science Paper Award and the Junior Faculty Opportunity Award at the University of Iowa.
+
 
 # Methods Research
 
@@ -35,7 +36,8 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 -Hanks, J. E., Kovatch, K. J., Ali S. A., **Roberts E.**, Durham, A. B., Smith, J. D., Bradford, C. R., Malloy, K. M., Boonstra, P. S., McLean, S. A. (2020). Sentinel Lymph Node Biopsy in Head & Neck Melanoma: Long-Term Outcomes, Prognostic Value, & Accuracy. Otolaryngology–Head and Neck Surgery.
 
 -Needham, B. L., Salerno, S., **Roberts, E.**, Boss, J., Allgood, K. L., Mukherjee, B. (2020). Do Black/White Differences in Telomere Length Depend on Socioeconomic Status? Biodemography and Social Biology.
-Roberts, E. & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints in Ordinal Predictors. International Journal of Biostatistics (online).
+
+-**Roberts, E.** & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints in Ordinal Predictors. International Journal of Biostatistics.
 
 -Sun, Y., Patel, A., SantaLucia, J., **Roberts, E.**, Zhao, L., Kaye, K., Rao, K., Bachman, M. (2021). Measurement of Klebsiella Intestinal Colonization Density to Assess Infection Risk. mSphere.
 
@@ -47,7 +49,7 @@ Roberts, E. & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints
 
 -**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan. AJPM Focus. (https://doi.org/10.1101/2022.01.29.22269971)
 
--**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002). Scientific Reports.
+-**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. (2022). Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002). Scientific Reports.
 
 *Under Revision and Resubmission*
 
