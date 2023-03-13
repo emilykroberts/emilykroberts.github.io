@@ -2,13 +2,6 @@
 title: "Interests"
 ---
 
-<br>
-
-```{r out.width = "50%", fig.align = "center", echo = FALSE}
-#knitr::include_graphics("Social.jpg")
-```
-
-<br>
 
 ## More about me
 
@@ -16,4 +9,4 @@ Outside of research, I enjoy traveling, photography, salsa dancing, podcasts, an
 
 ### Beyond Type One
 
-I recently trained for my first marathon! I am a part of the Beyond Type Run charity team to raise awareness and increase resources for type one diabetics. You can [read more about my story and help support here.](https://donate.beyondtype1.org/fundraiser/4021305) Diabetes has played a major role in my life, including in my academic pursuits toward being involved in meaningful and impactful medical research. I'm always happy to share more about my journey.
+I recently trained for my first marathon! I was a part of the 2022 Beyond Type Run charity team to raise awareness and increase resources for type one diabetics. You can [read more about my story and help support here.](https://donate.beyondtype1.org/fundraiser/4021305) Diabetes has played a major role in my life, including in my academic pursuits toward being involved in meaningful and impactful medical research. I'm always happy to share more about my journey if you're interested in learning more about T1D.
