@@ -51,9 +51,9 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 
 -**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. (2022). Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002). Scientific Reports.
 
-*Under Revision and Resubmission*
+-**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2023). Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models. Biometrical Journal (accepted). arXiv preprint arXiv:2211.15826.
 
--**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2022). Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models. arXiv preprint arXiv:2211.15826.
+*Under Revision and Resubmission*
 
 *Under Review*
 
