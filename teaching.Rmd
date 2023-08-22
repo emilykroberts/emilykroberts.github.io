@@ -6,7 +6,7 @@ title: "Teaching"
 
 ## Courses
 
-I am teaching [causal inference](https://catalog.registrar.uiowa.edu/courses/bios/) in Spring 2023 in the Department of Biostatistics at the University of Iowa.
+I taught [causal inference](https://catalog.registrar.uiowa.edu/courses/bios/) in Spring 2023 in the Department of Biostatistics at the University of Iowa and am currently teaching introduction to longitudinal data analysis.
 
 ### Here are a few of my previous teaching related experiences:
 
