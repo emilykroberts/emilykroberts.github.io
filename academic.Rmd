@@ -2,7 +2,6 @@
 title: "Academics"
 ---
 
-
 Here is an overview of my academic career and teaching activities. For more details on these, please take a look at my [CV](https://www.public-health.uiowa.edu/wp-content/uploads/2022/07/CV-Roberts.pdf).
 
 ## Education
@@ -80,19 +79,22 @@ SAMSI Travel Grant 2019
 
 Telomere Network Analysis Award and Travel Grant 2020, 2021
 
+Michigan Institute of Data Science Symposium November 2019: "Most Likely to Make an Impact in the Field" Award for Incorporating Subgroups in a Surrogate Endpoint Setting
+
+Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS) Annual Symposium February 2020: "Best Speed Oral Presentation" Presentation/Poster Award for Incorporating Subgroups in a Surrogate Endpoint Setting
+
+Michigan Student Symposium for Interdisciplinary Statistics Symposium February 2021: "Best Speed Oral Presentation" Presentation/Poster Award for Validating Surrogate Endpoints with Longitudinal Outcomes
+
+Society for Clinical Trials May 2022, Best Poster Award for Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials
+
 Women in Statistics and Data Science 2022 Travel Grant
 
 American Statistical Association Lifetime Data Science 2023 Paper Award
 
 Junior Faculty Opportunity Award, University of Iowa 2023
 
-Society for Clinical Trials May 2022, Best Poster Award for Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials
+New Faculty Research Award, University of Iowa 2023
 
-Michigan Student Symposium for Interdisciplinary Statistics Symposium February 2021: "Best Speed Oral Presentation" Presentation/Poster Award for Validating Surrogate Endpoints with Longitudinal Outcomes
-
-Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS) Annual Symposium February 2020: "Best Speed Oral Presentation" Presentation/Poster Award for Incorporating Subgroups in a Surrogate Endpoint Setting
-
-Michigan Institute of Data Science Symposium November 2019: "Most Likely to Make an Impact in the Field" Award for Incorporating Subgroups in a Surrogate Endpoint Setting
 
 ## Grants and Awarded Funding 
 

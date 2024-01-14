@@ -2,12 +2,12 @@
 title: "Research"
 ---
 
-I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. During my PhD, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention. Recently, I was awarded at American Statistical Association Lifetime Data Science Paper Award and the Junior Faculty Opportunity Award at the University of Iowa.
+I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. During my PhD, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention. Recently, I was awarded at American Statistical Association Lifetime Data Science Paper Award as well as the Junior Faculty Opportunity Award and New Faculty Research Award at the University of Iowa.
 
 
 # Methods Research
 
-Currently, I am interested in survival analysis and causal inference areas. My main methodologic focus has been on methods for surrogate endpoints in clinical trials. My general research interests include clinical trials, surrogate endpoint validation, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and diabetes and cancer applications.
+Currently, I am especially interested in clinical trials, survival analysis, and causal inference areas. My main methodologic focus has been on methods for surrogate endpoints in clinical trials. My general research interests include clinical trials, surrogate endpoint validation, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and diabetes, neurologic, and cancer applications.
 
 # Collaborative Research
 
@@ -45,19 +45,19 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 
 -Vornhagen, J., **Roberts, E.K.**, … [13 authors] Bachman, M.A. (2022). Comparative Genomics Reveals Plasmid-Encoded Genes Associated with Klebsiella Infection in Colonized Patients. Nature Communications. (https://doi.org/10.21203/rs.3.rs-1254643/v1)
 
--**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. (2022). Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy. Biometrics.
 
 -**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan. AJPM Focus. (https://doi.org/10.1101/2022.01.29.22269971)
 
 -**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. (2022). Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002). Scientific Reports.
 
--**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2023). Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models. Biometrical Journal (accepted). arXiv preprint arXiv:2211.15826.
+-**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. (2023). Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy. Biometrics.
 
-*Under Revision and Resubmission*
+-**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2023). Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models. Biometrical Journal.
 
-*Under Review*
+*Under Review, Revision, and Resubmission*
 
 -Morales, K.A., **Roberts, E.**,..., [21 authors], Mierzwa, M. A matched comparison of toxicity in p16+ oropharynx cancer treated with definitive chemoradiation with or without nivolumab.
 
+-Roberts, E., Luo, L., [7 authors], Brouwer, A. Time-Varying Associations of Patient Characteristics with Cancer Survival: An Analysis of SEER Data Across 14 Cancer Sites, 2004-2017.
 
 
