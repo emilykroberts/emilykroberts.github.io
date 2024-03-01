@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching and Mentoring"
 ---
 
 ## Courses
@@ -34,4 +34,6 @@ Tutored underprivileged students through United Way and the Zach Johnson Foundat
 ## Working with Students
 
 I mentor and work with several students on masters and PhD level projects outside of the classroom. If you are a current student interested in my research, contact me! If you are a prospective student, please apply to our graduate program - our admission's committee carefully reviews each application to admit a cohort of students.
+
+## Current Students
 
