@@ -2,7 +2,23 @@
 title: "Teaching and Mentoring"
 ---
 
-## Courses
+
+## Students and Research Team
+
+I mentor and work with several students on masters and PhD level projects outside of the classroom. If you are a current student interested in my research, contact me! If you are a prospective student, please [apply to our graduate program](https://www.public-health.uiowa.edu/biostatistics-faq/) - our admission's committee carefully reviews each application to admit a cohort of students.
+
+### Current Students
+
+#### PhD Students
+
+Stephanie Jansson
+
+#### Masters Preceptorships
+
+[Amy Wu](https://linktr.ee/amypwu) Project: Survival and Mediation Analysis of Race, Telomere Length, and Cancer Mortality, Fall 2023
+
+
+## Graduate Courses
 
 I teach causal inference and introduction to longitudinal data analysis in the [Department of Biostatistics at the University of Iowa](https://catalog.registrar.uiowa.edu/courses/bios/). 
 
@@ -14,7 +30,7 @@ BIOS:6310 Introductory Longitudinal Data Analysis (Fall 2023)
 
 Introduction to statistical models and estimation methods for outcome variables (normal and non-normal) clustered or measured repeatedly in time or space; focus on applications and computer software methods for ANOVA based methods, hierarchical linear models, linear mixed models, correlated regression models, generalized estimating equations, and generalized linear mixed models.
 
-### Here are a few of my previous teaching related experiences:
+### Previous teaching-related experiences:
 
 - University of Michigan Department of Biostatistics 2019
 Tutor for Stochastic Processes
@@ -23,17 +39,11 @@ Tutor for Stochastic Processes
 Club and Data Science Summer Experience in Detroit hosted by Girls Who Code Facilitator for High-Schoolers
 
 - Mathematics Help, Coe College Mathematics Department 2015-2016
-Tutored in math help sessions
+Tutor in math help sessions
 
 - SAS Teaching Assistant, Coe College Psychology Department 2015-2016
 Taught SAS in Memory and Cognition Lab, graded laboratory reports
 
 - Kids on Course Elementary Math Tutor, Harrison Elementary 2014-2016
 Tutored underprivileged students through United Way and the Zach Johnson Foundation
-
-## Working with Students
-
-I mentor and work with several students on masters and PhD level projects outside of the classroom. If you are a current student interested in my research, contact me! If you are a prospective student, please apply to our graduate program - our admission's committee carefully reviews each application to admit a cohort of students.
-
-## Current Students
 
