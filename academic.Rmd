@@ -2,54 +2,26 @@
 title: "Academics"
 ---
 
-Here is an overview of my academic career and teaching activities. For more details on these, please take a look at my [CV](https://www.public-health.uiowa.edu/wp-content/uploads/2022/07/CV-Roberts.pdf).
+Here is an overview of my academic career (so far!). For more details on these, please take a look at my [CV](https://www.public-health.uiowa.edu/wp-content/uploads/2023/06/CV-Roberts.pdf).
 
 ## Education
 
-- **PhD Biostatistics**, University of Michigan, 2016 - 2022
+#### **PhD Biostatistics**, University of Michigan, 2016 - 2022
 
 Dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”
 
 Advisors: Drs. Jeremy Taylor and Michael Elliott
 
-- **MS Biostatistics**, University of Michigan, 2018
+#### **MS Biostatistics**, University of Michigan, 2018
 
-- **Bachelor of Arts, Mathematics and Psychology**, Coe College, Cedar Rapids, Iowa, 2016
+#### **Bachelor of Arts, Mathematics and Psychology**, Coe College, Cedar Rapids, Iowa, 2016
 
 Summa Cum Laude 
 
 GPA 3.99, Mathematics Departmental Distinction, Scholar’s Program, 
 Honors thesis “Roommate Matching by Design” Advisor: Dr. Jonathan White
 
-
-## Research Experience: Graduate
-
-University of Michigan, Ann Arbor, Michigan	
-
-National Institutes of Health Cancer Training in Biostatistics Grant Trainee, Sept 2016-Aug 2017
-
-Advisor: Dr. Jeremy Taylor
-
-Graduate Student Research Assistant Advisor: Dr. Philip Boonstra, May-Aug 2019
-
-Advisor: Dr. Lili Zhao, 2019, Sept 2020-2022
-
-Advisor: Dr. Matt Schipper, June 2020-2022
-
-Co-PI Telomere Research Network Pilot Project Grant under Dr. Belinda Needham, Aug 2020-2022
-
-Research Experience: Undergraduate
-
-Harvard Summer Program in Biostatistics and Computational Biology Boston, Massachusetts, June-July 2015
-
-Action Research: Mission of Hope Cedar Rapids, Iowa, Jan-May 2015
-
-Columbia Summer Institute in Biostatistics New York City, New York, May-July 2014
-
-Coe College Research in Mathematics Program Cedar Rapids, Iowa, June-Aug 2013
-
 ## Awards and Distinctions
-
 
 Phi Beta Kappa, Mortar Board, Psi Chi, Alpha Lambda Delta, Phi Kappa Phi
 
@@ -95,20 +67,45 @@ Junior Faculty Opportunity Award, University of Iowa 2023
 
 New Faculty Research Award, University of Iowa 2023
 
-
 ## Grants and Awarded Funding 
 
 National Institute of Neurological Disorders and Stroke (NINDS) NeuroNEXT. U01 NS077352-11. Coffey, C. PI. 09/2022-Present. Role: Co-Investigator.
 
 University of Iowa Center for Public Health Statistics. Oleson, J. PI. 10/2022-Present. Role: Co-Investigator.
 
+Pilot Grant, College of Public Health New Faculty Research Award. Role: PI on Project Evaluating Surrogate Markers in a Diabetes Clinical Trial with Longitudinal Measures and Causal Inference Methods.
+
 Completed
 
 NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 2020-2021, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.
 
 WSDS Travel Grant 2022, Rackham Graduate Travel Grant 2018, 2019, 2021, 2022, Michigan Institute of Data Science Travel Grant 2019, SAMSI Travel Grant 2019, Telomere Network Analysis Award and Travel Grant 2020, 2021
-
 JSM 2023 Paper and Travel Award, LiDS Section
+
+## Previous Research Experiences: Graduate and Undergraduate
+
+University of Michigan, Ann Arbor, Michigan	
+
+National Institutes of Health Cancer Training in Biostatistics Grant Trainee, Sept 2016-Aug 2017
+
+Advisor: Dr. Jeremy Taylor
+
+Graduate Student Research Assistant Advisor: Dr. Philip Boonstra, May-Aug 2019
+
+Advisor: Dr. Lili Zhao, 2019, Sept 2020-2022
+
+Advisor: Dr. Matt Schipper, June 2020-2022
+
+Co-PI Telomere Research Network Pilot Project Grant under Dr. Belinda Needham, Aug 2020-2022
+
+Harvard Summer Program in Biostatistics and Computational Biology Boston, Massachusetts, June-July 2015
+
+Action Research: Mission of Hope Cedar Rapids, Iowa, Jan-May 2015
+
+Columbia Summer Institute in Biostatistics New York City, New York, May-July 2014
+
+Coe College Research in Mathematics Program Cedar Rapids, Iowa, June-Aug 2013
+
 
 ## Society Membership
 
