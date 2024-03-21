@@ -2,7 +2,7 @@
 title: "More about me"
 ---
 
-Outside of research, I enjoy traveling, photography, salsa dancing, podcasts, and cheering for my favorite teams (Go blue and go Hawks!). I am also passionate about combining my academic interests with public good, and am or have been involved in outreach efforts such as [Girls Who Code](http://umich.edu/~girlswc/), [Statistics in the Community (Statcom)](https://sph.umich.edu/biostat/statcom/), and the Iowa chapter of the American Statistical Association.
+Outside of research, I enjoy traveling, photography, salsa dancing, baking, and podcasts. I love cheering for my favorite teams - go blue and go Hawks (especially Iowa women's basketball)! I am also passionate about combining my academic interests with public good, and am or have been involved in outreach efforts such as [Girls Who Code](http://umich.edu/~girlswc/), [Statistics in the Community (Statcom)](https://sph.umich.edu/biostat/statcom/), and the [Iowa chapter of the American Statistical Association](https://community.amstat.org/iowachapter/home).
 
 ### Beyond Type One
 
@@ -13,6 +13,10 @@ I trained for my first marathon! I was a part of the 2022 Beyond Type Run charit
 
 ```{r, echo = F}
 library(tweetrmd)
+tweet_embed("https://twitter.com/ENAR_ibs/status/1767347114219045012", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1767163643282555013", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1766816274037014821", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1748068958442299436", hide_media = F)
 
 tweet_embed("https://twitter.com/emilyk_roberts/status/1728927190082081056", hide_media = F)
 tweet_embed("https://twitter.com/UIowaCPH/status/1709927767226384664", plain = T, hide_media = F)
