@@ -4,11 +4,11 @@ title: "Research"
 
 I am currently building collaborations at the University of Iowa, and I am involved in the Clinical Trials Statistical and Data Management Center. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. During my PhD, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention. Recently, I was awarded at American Statistical Association Lifetime Data Science Paper Award as well as the Junior Faculty Opportunity Award and New Faculty Research Award at the University of Iowa.
 
-# Methods Research
+### Methods Research
 
 Currently, I am especially interested in clinical trials, survival analysis, and causal inference areas. My main methodologic focus has been on methods for surrogate endpoints in clinical trials. My general research interests include clinical trials, surrogate endpoint validation, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and diabetes, neurologic, and cancer applications.
 
-# Collaborative Research
+### Collaborative Research
 
 I have worked on several collaborative and scientific areas such as head and neck melanoma, lymphoma, prostate cancer, and breast cancer. Additionally, I have experience in collaborative research on COVID-19 testing patterns, microbiome data, and telomere length and race.
 
@@ -16,19 +16,19 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 
 ## Publications
 
--**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2023). Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models. Biometrical Journal.
+-**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2023). [Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202200324) Biometrical Journal.
 
--**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. (2023). Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy. Biometrics.
+-**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. (2023). [Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/biom.13720) Biometrics.
 
--**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. (2022). Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002). Scientific Reports.
+-**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. (2022). [Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002).](https://www.nature.com/articles/s41598-022-24316-0.pdf) Scientific Reports.
 
--**Roberts, E.** & Zhao, L. (2021). A Bayesian Mixture Model to Estimate Changepoints in Ordinal Predictors. International Journal of Biostatistics.
+-**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). [Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan.](https://www.ajpmfocus.org/article/S2773-0654(22)00013-X/fulltext) AJPM Focus. 
 
--**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan. AJPM Focus. (https://doi.org/10.1101/2022.01.29.22269971)
+-Vornhagen, J., **Roberts, E.K.**, … [13 authors] Bachman, M.A. (2022). [Comparative Genomics Reveals Plasmid-Encoded Genes Associated with Klebsiella Infection in Colonized Patients.](https://doi.org/10.21203/rs.3.rs-1254643/v1) Nature Communications.
 
--Vornhagen, J., **Roberts, E.K.**, … [13 authors] Bachman, M.A. (2022). Comparative Genomics Reveals Plasmid-Encoded Genes Associated with Klebsiella Infection in Colonized Patients. Nature Communications. (https://doi.org/10.21203/rs.3.rs-1254643/v1)
+-**Roberts, E.** & Zhao, L. (2021). [A Bayesian Mixture Model to Estimate Changepoints in Ordinal Predictors.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9156335/) International Journal of Biostatistics.
 
--**Roberts, E. K.**, Elliott, M.R., Taylor, J.M.G. (2021). Incorporating Baseline Covariates to Validate Surrogate Endpoints with a Constant Biomarker Under Control Arm. Statistics in Medicine.
+-**Roberts, E. K.**, Elliott, M.R., Taylor, J.M.G. (2021). [Incorporating Baseline Covariates to Validate Surrogate Endpoints with a Constant Biomarker Under Control Arm.](https://europepmc.org/article/med/34528260) Statistics in Medicine.
 
 -Sun, Y., Patel, A., SantaLucia, J., **Roberts, E.**, Zhao, L., Kaye, K., Rao, K., Bachman, M. (2021). Measurement of Klebsiella Intestinal Colonization Density to Assess Infection Risk. mSphere.
 
