@@ -2,7 +2,7 @@
 title: "More about me"
 ---
 
-Outside of research, I enjoy traveling, photography, salsa dancing, baking, and podcasts. I love cheering for my favorite teams - go blue and go Hawks (especially Iowa women's basketball)! I am also passionate about combining my academic interests with public good, and am or have been involved in outreach efforts such as [Girls Who Code](http://umich.edu/~girlswc/), [Statistics in the Community (Statcom)](https://sph.umich.edu/biostat/statcom/), and the [Iowa chapter of the American Statistical Association](https://community.amstat.org/iowachapter/home).
+Outside of research, I enjoy traveling, photography, salsa dancing, baking, and podcasts. I love cheering for my favorite teams - go blue and go Hawks (especially Iowa women's basketball)! I am also passionate about combining my academic interests with public good, and am currently or have been involved in outreach efforts such as [Girls Who Code](http://umich.edu/~girlswc/), [Statistics in the Community (Statcom)](https://sph.umich.edu/biostat/statcom/), and the [Iowa chapter of the American Statistical Association](https://community.amstat.org/iowachapter/home).
 
 ### Beyond Type One
 
