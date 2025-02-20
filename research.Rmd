@@ -30,9 +30,9 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 
 -**Roberts, E. K.**, Elliott, M.R., Taylor, J.M.G. (2021). [Incorporating Baseline Covariates to Validate Surrogate Endpoints with a Constant Biomarker Under Control Arm.](https://europepmc.org/article/med/34528260) Statistics in Medicine.
 
--Sun, Y., Patel, A., SantaLucia, J., **Roberts, E.**, Zhao, L., Kaye, K., Rao, K., Bachman, M. (2021). Measurement of Klebsiella Intestinal Colonization Density to Assess Infection Risk. mSphere.
+-Sun, Y., Patel, A., SantaLucia, J., **Roberts, E.**, Zhao, L., Kaye, K., Rao, K., Bachman, M. (2021). [Measurement of Klebsiella Intestinal Colonization Density to Assess Infection Risk.](https://journals.asm.org/doi/pdf/10.1128/msphere.00500-21) mSphere.
 
--Needham, B. L., Salerno, S., **Roberts, E.**, Boss, J., Allgood, K. L., Mukherjee, B. (2020). Do Black/White Differences in Telomere Length Depend on Socioeconomic Status? Biodemography and Social Biology.
+-Needham, B. L., Salerno, S., **Roberts, E.**, Boss, J., Allgood, K. L., Mukherjee, B. (2020). [Do Black/White Differences in Telomere Length Depend on Socioeconomic Status?](https://pmc.ncbi.nlm.nih.gov/articles/PMC7703670/) Biodemography and Social Biology.
 
 -Hanks, J. E., Kovatch, K. J., Ali S. A., **Roberts E.**, Durham, A. B., Smith, J. D., Bradford, C. R., Malloy, K. M., Boonstra, P. S., McLean, S. A. (2020). Sentinel Lymph Node Biopsy in Head & Neck Melanoma: Long-Term Outcomes, Prognostic Value, & Accuracy. Otolaryngology–Head and Neck Surgery.
 
