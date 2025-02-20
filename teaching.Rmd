@@ -5,9 +5,7 @@ title: "Teaching and Mentoring"
 
 ## Students and Research Team
 
-I enjoy mentoring and working with students on masters and PhD level projects outside of the classroom. If you are a current student interested in my research, contact me! If you are a prospective student, please [apply to our graduate program](https://www.public-health.uiowa.edu/biostatistics-faq/) - our admission's committee carefully reviews each application to admit a cohort of students.
-
-### Current Students
+In addition to teaching, I enjoy mentoring and working with students on masters and PhD level projects. If you are a current student interested in my research, contact me! If you are a prospective student, please [apply to our graduate program](https://www.public-health.uiowa.edu/biostatistics-faq/) - our admission's committee carefully reviews each application to admit a cohort of students.
 
 #### PhD Students
 
@@ -35,7 +33,7 @@ I teach causal inference and introduction to longitudinal data analysis in the [
 
 Causal inference overview, emphasis on inference in observational research; conceptual issues (e.g., counterfactuals, causal graphs, time-varying treatments/confounding), methods (e.g., inverse probability weighting, doubly robust estimators), and related applications (e.g., causal mediation analysis, quantitative bias analysis); for advanced biostatistics or epidemiology students.
 
-#### BIOS:6310 Introductory Longitudinal Data Analysis (Fall 2023, Fall 2024) 
+#### BIOS:6310 Introductory Longitudinal Data Analysis (Fall 2023, Fall 2024)
 
 Introduction to statistical models and estimation methods for outcome variables (normal and non-normal) clustered or measured repeatedly in time or space; focus on applications and computer software methods for ANOVA based methods, hierarchical linear models, linear mixed models, correlated regression models, generalized estimating equations, and generalized linear mixed models.
 
@@ -45,14 +43,14 @@ Introduction to statistical models and estimation methods for outcome variables 
 Tutor for Stochastic Processes
 
 - Girls Who Code, University of Michigan, Ann Arbor chapter 2018-2019
-Club and Data Science Summer Experience in Detroit hosted by Girls Who Code Facilitator for High-Schoolers
+Club and Data Science Summer Experience Facilitator
 
 - Mathematics Help, Coe College Mathematics Department 2015-2016
 Tutor in math help sessions
 
 - SAS Teaching Assistant, Coe College Psychology Department 2015-2016
-Taught SAS in Memory and Cognition Lab, graded laboratory reports
+Taught SAS in Memory and Cognition Lab
 
 - Kids on Course Elementary Math Tutor, Harrison Elementary 2014-2016
-Tutored underprivileged students through United Way and the Zach Johnson Foundation
+Tutor through United Way and Zach Johnson Foundation
 
