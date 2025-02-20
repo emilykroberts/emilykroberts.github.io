@@ -8,6 +8,8 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 
 ## Publications
 
+-Tanaka, T., **Roberts, E.K.,** Platt, J.* (2024). Revisiting the Effect of Acute-on-Chronic Liver Failure on Post-Liver Transplant Survival. Hepatology Communications.
+
 -Salerno, S., **Roberts, E.K.,** Needham, B., McCormick, T., Mukherjee, B., Shi, X. [What’s the Weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research. arXiv:2406.19597.](https://arxiv.org/abs/2406.19597)
 
 -**Roberts, E. K.**, Luo, L., [7 authors], Brouwer, A. (2024). [Time-Varying Associations of Patient Characteristics with Cancer Survival: An Analysis of SEER Data Across 14 Cancer Sites, 2004-2017.](https://link.springer.com/epdf/10.1007/s10552-024-01888-y?sharing_token=6PBQ4UmgLbcoP8H0_7HeG_e4RwlQNchNByi7wbcMAY61dlcuo-u1LtsGmGf6UhSDV2ZAnWAhzDiEAs4lxDgSLCOHvSplfcjArapp66oJ-ANz3I0WHRVc1eiIQzU1mzW6L_T7AHiXcKHLz9OI8_M5SCydU8XEsawm3vw9I2x48OQ%3D) Cancer Causes and Control (online).
