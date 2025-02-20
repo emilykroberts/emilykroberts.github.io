@@ -1,45 +1,57 @@
 ---
-title: "Some glimpses of my research profile..."
+title: "Research"
 ---
 
-<br>
+I am currently building collaborations at the University of Iowa, particularly through our Causal Inference Collaboratory. I am involved in the Clinical Trials Statistical through our Data Management Center and NeuroNEXT. Currently, I am especially interested in clinical trials, survival analysis, and causal inference areas. My main methodologic focus has been on methods for surrogate endpoints in clinical trials. My general research interests include clinical trials, surrogate endpoint validation, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and diabetes, neurologic, and cancer applications. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. During my PhD, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention. Recently, I was awarded at American Statistical Association Lifetime Data Science Paper Award as well as the Junior Faculty Opportunity Award and New Faculty Research Award at the University of Iowa.
 
-```{r out.width = "50%", fig.align = "center", echo = FALSE}
-knitr::include_graphics("Pictures/3.jpg")
-```
+Below is a list of my published projects. Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=yh2UbZEAAAAJ&hl=en) to get a complete list of my papers and presentations. 
 
-<br>
+## Publications
 
-Below is a list of my published projects (in descending order of publication year) and upcoming conference presentations. Please refer to my [CV](https://www.dropbox.com/scl/fi/9kteh34by8q241fucbqgt/RupamB_CV.pdf?rlkey=c2xzfhhtxvw91ijypnn8t50gy&st=vpeulwdq&dl=0), [ResearchGate profile](https://www.researchgate.net/profile/Rupam-Bhattacharyya), or [Google Scholar page](https://scholar.google.com/citations?user=D5F2V4YAAAAJ&hl=en) to get a complete list of my preprints, ongoing projects, past presentations, and accolades. My [CV](https://www.dropbox.com/scl/fi/9kteh34by8q241fucbqgt/RupamB_CV.pdf?rlkey=c2xzfhhtxvw91ijypnn8t50gy&st=vpeulwdq&dl=0) also contains the most updated list of my administrative and peer review activities.
+-Salerno, S., **Roberts, E.K.,** Needham, B., McCormick, T., Mukherjee, B., Shi, X. [What’s the Weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research. arXiv:2406.19597.](https://arxiv.org/abs/2406.19597)
 
-## Published Works
+-**Roberts, E. K.**, Luo, L., [7 authors], Brouwer, A. (2024). [Time-Varying Associations of Patient Characteristics with Cancer Survival: An Analysis of SEER Data Across 14 Cancer Sites, 2004-2017.](https://link.springer.com/epdf/10.1007/s10552-024-01888-y?sharing_token=6PBQ4UmgLbcoP8H0_7HeG_e4RwlQNchNByi7wbcMAY61dlcuo-u1LtsGmGf6UhSDV2ZAnWAhzDiEAs4lxDgSLCOHvSplfcjArapp66oJ-ANz3I0WHRVc1eiIQzU1mzW6L_T7AHiXcKHLz9OI8_M5SCydU8XEsawm3vw9I2x48OQ%3D) Cancer Causes and Control (online).
 
-- **Bhattacharyya, R.**, Henderson, N., & Baladandayuthapani, V. (2024). Functional integrative Bayesian analysis of high-dimensional multiplatform genomic data. *JASA Applications and Case Studies*, 119(548), 2533-2547.
+-**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2023). [Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202200324) Biometrical Journal.
 
-- Kundu, R., Datta, J., Ray, D., Mishra, S., **Bhattacharyya, R.**, Zimmermann, L., & Mukherjee, B. (2023). Comparative impact assessment of COVID-19 policy interventions in five South Asian countries using reported and estimated unreported death counts during 2020-2021. *PLOS Global Public Health*, 3(12), e0002063.
+-**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. (2023). [Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/biom.13720) Biometrics.
 
-- **Bhattacharyya, R.**, Henderson, N., & Baladandayuthapani, V. (2023, January). BaySyn: Bayesian evidence synthesis for multi-system multiomic integration. In *Pacific Symposium on Biocomputing* (Vol. 28, No. 2023, pp. 275-286).
+-**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. (2022). [Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002).](https://www.nature.com/articles/s41598-022-24316-0.pdf) Scientific Reports.
 
-- **Bhattacharyya, R.**, Burman, A., Singh, K., Banerjee, S., Maity, S., Auddy, A., ... & Baladandayuthapani, V. (2022). Role of multi-resolution vulnerability indices in COVID-19 spread in India: A Bayesian model-based analysis. *BMJ Open*, 12(11), e056292.
+-**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). [Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan.](https://www.ajpmfocus.org/article/S2773-0654(22)00013-X/fulltext) AJPM Focus. 
 
-- Salvatore, M., Purkayastha, S., Ganapathi, L., **Bhattacharyya, R.**, Kundu, R., Zimmermann, L., ... & Mukherjee, B. (2022). Lessons from SARS-CoV-2 in India: A data-driven framework for pandemic resilience. *Science Advances*, 8(24), eabp8621.
+-Vornhagen, J., **Roberts, E.K.**, … [13 authors] Bachman, M.A. (2022). [Comparative Genomics Reveals Plasmid-Encoded Genes Associated with Klebsiella Infection in Colonized Patients.](https://doi.org/10.21203/rs.3.rs-1254643/v1) Nature Communications.
 
-- **Bhattacharyya, R.**, Banerjee, S., Mohammed, S., & Baladandayuthapani, V. (2023). Network-based modeling of COVID-19 dynamics: early pandemic spread in India. *Journal of the Indian Statistical Association*, 59(2), 1-43.
+-**Roberts, E.** & Zhao, L. (2021). [A Bayesian Mixture Model to Estimate Changepoints in Ordinal Predictors.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9156335/) International Journal of Biostatistics.
 
-- Purkayastha, S., **Bhattacharyya, R.**, Bhaduri, R., Kundu, R., Gu, X., Salvatore, M., ... & Mukherjee, B. (2021). A comparison of five epidemiological models for transmission of SARS-CoV-2 in India. *BMC Infectious Diseases*, 21(1), 1-23.
+-**Roberts, E. K.**, Elliott, M.R., Taylor, J.M.G. (2021). [Incorporating Baseline Covariates to Validate Surrogate Endpoints with a Constant Biomarker Under Control Arm.](https://europepmc.org/article/med/34528260) Statistics in Medicine.
 
-- **Bhattacharyya, R.**, Kundu, R., Bhaduri, R., Ray, D., Beesley, L. J., Salvatore, M., & Mukherjee, B. (2021). Incorporating false negative tests in epidemiological models for SARS-CoV-2 transmission and reconciling with seroprevalence estimates. *Scientific Reports*, 11(1), 1-14.
+-Sun, Y., Patel, A., SantaLucia, J., **Roberts, E.**, Zhao, L., Kaye, K., Rao, K., Bachman, M. (2021). Measurement of Klebsiella Intestinal Colonization Density to Assess Infection Risk. mSphere.
 
-- Ray, D., **Bhattacharyya, R.**, & Mukherjee, B. (2021). Discussion on “The timing and effectiveness of implementing mild interventions of COVID-19 in large industrial regions via a synthetic control method” by Tian et al. *Statistics and Its Interface*, 14(1), 25-28.
+-Needham, B. L., Salerno, S., **Roberts, E.**, Boss, J., Allgood, K. L., Mukherjee, B. (2020). Do Black/White Differences in Telomere Length Depend on Socioeconomic Status? Biodemography and Social Biology.
 
-- Salvatore, M., Basu, D., Ray, D., Kleinsasser, M., Purkayastha, S., **Bhattacharyya, R.**, & Mukherjee, B. (2020). Comprehensive public health evaluation of lockdown as a non-pharmaceutical intervention on COVID-19 spread in India: national trends masking state-level variations. *BMJ Open*, 10(12), e041778.
+-Hanks, J. E., Kovatch, K. J., Ali S. A., **Roberts E.**, Durham, A. B., Smith, J. D., Bradford, C. R., Malloy, K. M., Boonstra, P. S., McLean, S. A. (2020). Sentinel Lymph Node Biopsy in Head & Neck Melanoma: Long-Term Outcomes, Prognostic Value, & Accuracy. Otolaryngology–Head and Neck Surgery.
 
-- Ray, D., Salvatore, M., **Bhattacharyya, R.**, Wang, L., Du, J., Mohammed, S., ... & Mukherjee, B. (2020). Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms. *Harvard Data Science Review*, 2020(Suppl 1).
+-Siontis, B., McHugh, J., **Roberts, E.**, Zhao, L., Thomas, D., Baker, L., Owen, D., Biermann, J.S., Schuetze, S.M., Chugh, R. (2019). Radiation-Associated Versus Sporadic Osteosarcoma: A Single-Institution Experience. Frontiers in Oncology.
 
-- **Bhattacharyya, R.**, Ha, M. J., Liu, Q., Akbani, R., Liang, H., & Baladandayuthapani, V. (2020). Personalized network modeling of the pan-cancer patient and cell line interactome. *JCO Clinical Cancer Informatics*, 4, 399-411.
+-East, E. G., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2019). Repeat Biomarker Status in Breast Resection Specimens With Controlled Cold Ischemic Time. American journal of clinical pathology.
 
-- Liu, Q., Ha, M. J., **Bhattacharyya, R.**, Garmire, L., & Baladandayuthapani, V. (2020, January). Network-based matching of patients and targeted therapies for precision oncology. In *Pacific Symposium on Biocomputing* (Vol. 25, No. 2020, pp. 623-634).
+-Geer, M.\*, **Roberts, E.**\*, Shango M., Till B., Smith S., Abbas .H, Hill B., Kaplan J., Barr P.M., Caimi P.F., Stephens D.M., Lin E., Herrera A.F., Rosenbaum E., Amengual K., Boonstra P.S., Devata S., Wilcox R.A., Kaminski M., and Phillips T. (2019). Multicentre retrospective study of intravascular large B‐cell lymphoma treated at academic institutions within the United States. British journal of haematology. *equal contribution authors
 
-## Upcoming Presentations
+-East, E., Gabbeart, M., **Roberts, E.**, Zhao, L. & Jorns, J. (2018). A Rapid Triage Protocol to Optimize Cold Ischemic Time for Breast Resection Specimens. Annals of Diagnostic Pathology.
 
-- Watch this space for my 2025 presentations!
+-Kahn, J. M., Cole, P. D., Blonquist, T. M., T. M., Stevenson, K., Jin, Z., Barrera, S., Davila, R., **Roberts, E.**, [10 authors], Kelly, K.  (2018). An investigation of toxicities and survival in Hispanic children and adolescents with ALL: Results from the Dana‐Farber Cancer Institute ALL Consortium protocol 05‐001. Pediatric blood & cancer, 65(3).
+
+-East, E. G., Gast, K. M., Kuzon, W. M., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2017). Clinicopathologic Findings in Female‐to‐Male Gender‐Affirming Breast Surgery. Histopathology.
+
+-Muller, K. E., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2017). Isolated Atypical Lobular Hyperplasia Diagnosed on Breast Biopsy: Low Upgrade Rate on Subsequent Excision With Long-Term Follow-up. Archives of pathology & laboratory medicine.
+
+-**Roberts, E.** (2015). Mission of Hope Action Research: Analyzing and Understanding Local Homeless. Undergraduate Journal of Service Learning and Community-Based Research.
+
+*Under Review, Revision, and Resubmission*
+
+-Morales, K.A., **Roberts, E.**,..., [21 authors], Mierzwa, M. A matched comparison of toxicity in p16+ oropharynx cancer treated with definitive chemoradiation with or without nivolumab.
+
+
+
+
