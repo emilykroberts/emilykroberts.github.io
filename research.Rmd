@@ -8,6 +8,8 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 
 ## Publications
 
+-Cherwin, C., Hoang, J., **Roberts, E.K.,** Mangalam, A. (2025). Gut Microbiome and Symptom Burden in Obese and Non-Obese Women Receiving Chemotherapy for Breast Cancer. Biological Research for Nursing.
+
 -Tanaka, T., **Roberts, E.K.,** Platt, J.* (2024). Revisiting the Effect of Acute-on-Chronic Liver Failure on Post-Liver Transplant Survival. Hepatology Communications.
 
 -Salerno, S., **Roberts, E.K.,** Needham, B., McCormick, T., Mukherjee, B., Shi, X. [What’s the Weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research. arXiv:2406.19597.](https://arxiv.org/abs/2406.19597)
