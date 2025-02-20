@@ -1,7 +1,7 @@
-name: "Rupam Bhattacharyya"                                # CHANGE HERE 
+name: "Emily Roberts" # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Homepage of Rupam Bhattacharyya"                             # CHANGE HERE 
+  title: "Emily Roberts, PhD" # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -9,22 +9,34 @@ navbar:
       href: index.html
     - text: "Academic"
       icon: fa-book
+#     icon: fa-user 
       href: academic.html
     - text: "Research"
-      icon: fa-gitlab
+      icon: fa-laptop
+#     icon: fa-file-pdf-o
       href: research.html
-    - text: "Social"
+    - text: "Teaching"
+      icon: fa-book-open
+#     icon: fa-file-pdf-o
+      href: teaching.html
+ #   - text: "CV"
+ #     icon: fa-user
+ #     href: CV.html
+    - text: "Interests"
       icon: fa-users
+#     icon: fa-rss
       href: social.html
   right:
     - icon: fa-envelope-o
-      href: mailto:rupamb@umich.edu                    # CHANGE HERE 
+      href: mailto:emily-roberts-1@uiowa.edu                  # CHANGE HERE 
     - icon: fa-github
-      href: https://github.com/rupambh       # CHANGE HERE 
+      href: https://github.com/emilykroberts       # CHANGE HERE 
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/rupam2016bhattacharyya/
-    - text: CV
-      href: https://www.dropbox.com/scl/fi/9kteh34by8q241fucbqgt/RupamB_CV.pdf?rlkey=c2xzfhhtxvw91ijypnn8t50gy&st=vpeulwdq&dl=0
+      href: https://www.linkedin.com/in/emily-roberts/
+    - icon: fa-twitter
+      href: https://twitter.com/emilyk_roberts
+output:
   html_document:
-    theme: darkly
-    highlight: zenburn
+#    theme: darkly
+#    highlight: textmate
+    
