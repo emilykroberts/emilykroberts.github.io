@@ -2,7 +2,7 @@
 title: "More about me"
 ---
 
-Outside of research, I enjoy traveling, photography, salsa dancing, baking, and podcasts. I love cheering for my favorite teams - go blue and go Hawks (especially Iowa women's basketball)! I am also passionate about combining my academic interests with public good, and am currently or have been involved in outreach efforts such as [Girls Who Code](http://umich.edu/~girlswc/), [Statistics in the Community (Statcom)](https://sph.umich.edu/biostat/statcom/), and the [Iowa chapter of the American Statistical Association](https://community.amstat.org/iowachapter/home).
+Outside of research, I enjoy traveling, photography, salsa dancing, baking, and podcasts. I love cheering for my favorite teams - go blue and go Hawks -especially Iowa women's basketball! I am also passionate about combining my academic interests with public good, and am currently or have been involved in outreach efforts such as [Girls Who Code](http://umich.edu/~girlswc/), [Statistics in the Community (Statcom)](https://sph.umich.edu/biostat/statcom/), and the [Iowa chapter of the American Statistical Association](https://community.amstat.org/iowachapter/home).
 
 ### Beyond Type One
 
@@ -13,6 +13,7 @@ I trained for my first marathon! I was a part of the 2022 Beyond Type Run charit
 
 ```{r, echo = F}
 library(tweetrmd)
+tweet_embed("https://x.com/emilyk_roberts/status/1820570326105010618", hide_media = F)
 tweet_embed("https://x.com/emilyk_roberts/status/1783139025718595946", hide_media = F)
 tweet_embed("https://x.com/emilyk_roberts/status/1779860588098662845", hide_media = F)
 tweet_embed("https://twitter.com/ENAR_ibs/status/1767347114219045012", hide_media = F)
