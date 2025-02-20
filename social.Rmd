@@ -1,39 +1,34 @@
 ---
-title: "Beyond the numbers..."
+title: "More about me"
 ---
 
-<br>
+Outside of research, I enjoy traveling, photography, salsa dancing, baking, and podcasts. I love cheering for my favorite teams - go blue and go Hawks (especially Iowa women's basketball)! I am also passionate about combining my academic interests with public good, and am currently or have been involved in outreach efforts such as [Girls Who Code](http://umich.edu/~girlswc/), [Statistics in the Community (Statcom)](https://sph.umich.edu/biostat/statcom/), and the [Iowa chapter of the American Statistical Association](https://community.amstat.org/iowachapter/home).
 
-```{r out.width = "50%", fig.align = "center", echo = FALSE}
-knitr::include_graphics("Pictures/4.jpg")
+### Beyond Type One
+
+I trained for my first marathon! I was a part of the 2022 Beyond Type Run charity team to raise awareness and increase resources for type one diabetics. You can [read more about my story and help support here.](https://donate.beyondtype1.org/fundraiser/4021305) Diabetes has played a major role in my life, including in my academic pursuits toward being involved in meaningful and impactful medical research. I'm always happy to share more about my journey if you're interested in learning more about T1D.
+
+
+### Links and Fun News
+
+```{r, echo = F}
+library(tweetrmd)
+tweet_embed("https://x.com/emilyk_roberts/status/1783139025718595946", hide_media = F)
+tweet_embed("https://x.com/emilyk_roberts/status/1779860588098662845", hide_media = F)
+tweet_embed("https://twitter.com/ENAR_ibs/status/1767347114219045012", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1767163643282555013", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1766816274037014821", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1748068958442299436", hide_media = F)
+
+tweet_embed("https://twitter.com/emilyk_roberts/status/1728927190082081056", hide_media = F)
+tweet_embed("https://twitter.com/UIowaCPH/status/1709927767226384664", plain = T, hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1708832495716663531", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1707018821091864909", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1715422500366987296", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1689240368938655744", hide_media = F)
+tweet_embed("https://twitter.com/proffcoff/status/1684899612228792320", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1671165496396484608", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1658878065898815510", hide_media = F)
+tweet_embed("https://twitter.com/proffcoff/status/1645975286402392065", hide_media = F)
+tweet_embed("https://twitter.com/emilyk_roberts/status/1637859594650124288", hide_media = F)
 ```
-
-<br>
-
-## Popular Science and Media Activities
-
-In addition to my formal academic ventures, I strive to make the science I work on more accessible and user-friendly to people not necessarily trained in my discipline. Here are a few examples of my efforts:
-
-- **YouTube Tutorials**
-  - Available on the [BayesRx YouTube channel](https://www.youtube.com/channel/UCiw6hgV17lpZUhCLGcwgkKg/videos).
-
-- **Interactive Dashboards**
-  - [Pan-cancer proteomic pathway networks](https://bayesrx.shinyapps.io/TransPRECISE/).
-  - [Functional integrative analysis of proteogenomic cancer data](https://bayesrx.shinyapps.io/fiBAG/).
-  - [Multi-platform evidence synthesis in multi-system cancer samples](https://bayesrx.shinyapps.io/BaySyn/).
-  - [Estimation of immunogenic modulation in clinicogenomic cancer models](https://bayesrx.shinyapps.io/GPVIBES/).
-  - [Network-based modeling of the COVID-19 pandemic in India](https://bayesrx.shinyapps.io/COV-N/).
-  - [National and state-wise forecasts and summaries of COVID-19 in India](https://umich-biostatistics.shinyapps.io/covid19/).
-
-- **Media Interactions**
-  - [Newstalk](https://www.newstalk.com/podcasts/highlights-from-moncrieff/1-3-billion-lockdown-india).
-  - [The World](https://www.pri.org/stories/2020-03-25/without-support-indias-poorest-people-lockdown-risks-failure).
-  - [The Guardian](https://www.theguardian.com/world/2020/mar/24/indias-13bn-population-locked-down-to-beat-coronavirus).
-  - [NDTV India](https://drive.google.com/file/d/1Xt4LjmNJsXsUVTTXop6AgQWwjFKxcvcS/view?usp=sharing).
-  - [The Wire](https://thewire.in/health/covid-19-india-national-data-state).
-
-- Recently, I have ventured into writing popular science articles in my mother tongue, Bengali. More details to follow soon!
-
-## My World and Hobbies
-
-Apart from spending time with my work and my family, I love watching all kinds of sports (with a slight predilection towards football - not the American kind!), listening to a broad range of Indian and world music, reading basically any literature that I can get my hands on, and last but not least, *quizzing*. The one place where I share my thoughts on a recent book I am reading, or the latest game I watched is my [Facebook profile](https://www.facebook.com/rupam.bhattacharyya1995/) (I do have Twitter and Instagram, but am really inactive there!).
