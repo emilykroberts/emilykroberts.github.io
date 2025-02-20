@@ -13,9 +13,9 @@ title: "Emily Roberts, PhD"
 
 <br clear="left"/>
 
-Hi! I am an [assistant professor of biostatistics at the University of Iowa](https://www.public-health.uiowa.edu/people/emily-roberts/). I completed my PhD at the [Department of Biostatistics, University of Michigan](https://sph.umich.edu/biostat/) in 2022 with my PhD dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”. I'm excited about statistical methodology that can be meaningfully used in a clinical setting. Welcome to my page where I have included a bit about myself and my work.
+Hi! I am an [assistant professor of biostatistics at the University of Iowa](https://www.public-health.uiowa.edu/people/emily-roberts/). Welcome to my page where I have included a bit about myself and my work. I'm excited about statistical methodology that can be meaningfully used in a clinical setting. 
 
-I graduated Summa Cum Laude in 2016 from Coe College with a BA in mathematics and psychology as a member of Phi Beta Kappa National Honor Society. Additionally, I earned my MS in biostatistics from Michigan in 2018. My passion for medical research and ultimate career goals stem from my diagnosis of type I diabetes at the age of four. 
+I completed my PhD at the [Department of Biostatistics, University of Michigan](https://sph.umich.edu/biostat/) in 2022 with my PhD dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”. I earned my MS in biostatistics from Michigan in 2018 and graduated Summa Cum Laude in 2016 from Coe College with a BA in mathematics and psychology. My passion for medical research and ultimate career goals stem from my diagnosis of type I diabetes at the age of four. 
 
 ## Exciting News and Stories
 
