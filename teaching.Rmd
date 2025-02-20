@@ -1,0 +1,58 @@
+---
+title: "Teaching and Mentoring"
+---
+
+
+## Students and Research Team
+
+I enjoy mentoring and working with students on masters and PhD level projects outside of the classroom. If you are a current student interested in my research, contact me! If you are a prospective student, please [apply to our graduate program](https://www.public-health.uiowa.edu/biostatistics-faq/) - our admission's committee carefully reviews each application to admit a cohort of students.
+
+### Current Students
+
+#### PhD Students
+
+Stephanie Jansson
+
+#### Masters Preceptorships
+
+[Amy Wu](https://linktr.ee/amypwu) Project: Survival and Mediation Analysis of Race, Telomere Length, and Cancer Mortality, Fall 2023
+
+Dosten Kpozehouen Project: Prediction of Survival Time from Treatment: Case of Pancreatic Cancer, Spring 2024
+
+#### Lab News
+
+[Amy Wu receives Carol S. Gleich Development Award to present her research at ENAR 2024 in Baltimore.](https://www.public-health.uiowa.edu/news-items/recipients-of-dr-carol-s-gleich-development-award-announced-5/) Congrats, Amy!
+
+[Amy Wu wins the Iowa Chapter of the ASA 2024 Best Poster Award.](https://x.com/asa_iowa/status/1780578523196875194) Congrats!
+
+Dosten Kpozehouen presents his research at the University of Iowa Cancer Center 2024 retreat. Nice work!
+
+## Graduate Courses
+
+I teach causal inference and introduction to longitudinal data analysis in the [Department of Biostatistics at the University of Iowa](https://catalog.registrar.uiowa.edu/courses/bios/). 
+
+#### BIOS:6650 Causal Inference (Spring 2023, Spring 2024)
+
+Causal inference overview, emphasis on inference in observational research; conceptual issues (e.g., counterfactuals, causal graphs, time-varying treatments/confounding), methods (e.g., inverse probability weighting, doubly robust estimators), and related applications (e.g., causal mediation analysis, quantitative bias analysis); for advanced biostatistics or epidemiology students.
+
+#### BIOS:6310 Introductory Longitudinal Data Analysis (Fall 2023, Fall 2024) 
+
+Introduction to statistical models and estimation methods for outcome variables (normal and non-normal) clustered or measured repeatedly in time or space; focus on applications and computer software methods for ANOVA based methods, hierarchical linear models, linear mixed models, correlated regression models, generalized estimating equations, and generalized linear mixed models.
+
+### Previous teaching-related experiences:
+
+- University of Michigan Department of Biostatistics 2019
+Tutor for Stochastic Processes
+
+- Girls Who Code, University of Michigan, Ann Arbor chapter 2018-2019
+Club and Data Science Summer Experience in Detroit hosted by Girls Who Code Facilitator for High-Schoolers
+
+- Mathematics Help, Coe College Mathematics Department 2015-2016
+Tutor in math help sessions
+
+- SAS Teaching Assistant, Coe College Psychology Department 2015-2016
+Taught SAS in Memory and Cognition Lab, graded laboratory reports
+
+- Kids on Course Elementary Math Tutor, Harrison Elementary 2014-2016
+Tutored underprivileged students through United Way and the Zach Johnson Foundation
+
