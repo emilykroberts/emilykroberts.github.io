@@ -1,32 +1,94 @@
 ---
-title: "A few bits of my academic pursuits..."
+title: "Academics"
 ---
 
-<br>
-
-```{r out.width = "50%", fig.align = "center", echo = FALSE}
-knitr::include_graphics("Pictures/2.jpg")
-```
-
-<br>
-
-Here is an overview of my academic career and teaching activities. For more details on these, please take a look at my [CV](https://www.dropbox.com/scl/fi/9kteh34by8q241fucbqgt/RupamB_CV.pdf?rlkey=c2xzfhhtxvw91ijypnn8t50gy&st=vpeulwdq&dl=0).
+Here is an overview of my academic career (so far!). For more details on these, please take a look at my [CV](https://www.public-health.uiowa.edu/wp-content/uploads/2025/01/CV-Roberts-1-2025.pdf).
 
 ## Education
 
-- **PhD Biostatistics**, University of Michigan, 2018 - 2023.
-  - Dissertation: [Bayesian Models for Multi-omic Multi-system Integration for Precision Oncology](https://deepblue.lib.umich.edu/handle/2027.42/177797).
-- **Master of Statistics**, Indian Statistical Institute, Kolkata, 2016-2018.
-  - Specialization: Applied Statistics, Biostatistics track.
-- **Bachelor of Statistics** (Hons.), Indian Statistical Institute, Kolkata, 2013-2016.
+#### **PhD Biostatistics**, University of Michigan, 2016 - 2022
 
-## Teaching
+Dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”
 
-- Lecturer at the [**Big Data Summer Institute**](https://sph.umich.edu/bdsi/).
-  - [Introduction to Linear Algebra](https://sph.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4df8ac5c-a26f-4a6c-bca6-b026015bb1c5), 2023.
-  - [Introduction to Linear Algebra](https://sph.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e37e945-7634-45a2-aba6-aebd01212e07), 2022.
-  - [Introduction to Probability](https://sph.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f29a5ab0-4ff9-451c-b29e-ad400048d11b), 2021.
-- Grader and project reviewer in departmental courses.
-  - Biostat 651: Theory and Application of Generalized Linear Models, Winter 2023.
-  - Biostat 651: Theory and Application of Generalized Linear Models, Winter 2021.
-  - Biostat 802: Advanced Inference II, Winter 2020.
+Advisors: Drs. Jeremy Taylor and Michael Elliott
+
+#### **MS Biostatistics**, University of Michigan, 2018
+
+#### **Bachelor of Arts, Mathematics and Psychology**, Coe College, Cedar Rapids, Iowa, 2016
+
+Summa Cum Laude 
+
+GPA 3.99, Mathematics Departmental Distinction, Scholar’s Program, 
+Honors thesis “Roommate Matching by Design” Advisor: Dr. Jonathan White
+
+## Awards and Distinctions
+
+Phi Beta Kappa, Mortar Board, Psi Chi, Alpha Lambda Delta, Phi Kappa Phi
+
+Dean’s List Coe College 2012-2016
+
+Coe College Hunt Award in Mathematics 2015
+	
+Barry Goldwater Honorable Mention 2015
+
+R.J. McElroy Fellowship 2016
+
+University of Michigan School of Public Health Regents’ Fellowship Award	2016
+
+National Science Foundation Graduate Research Fellowship Program 2016-2021
+
+National Institutes of Health Cancer Training in Biostatistics Grant, 2016-2017
+
+School of Public Health Unsung Hero Award 2020
+
+University of Michigan Rackham Predoctoral Fellowship 2021-2022
+
+University of Michigan Department of Biostatistics Excellence in Research Honorable Mention 2021
+
+Rackham Graduate Travel Grant 2018, 2019, 2021, 2022
+
+Michigan Institute of Data Science Travel Grant 2019
+
+SAMSI Travel Grant 2019
+
+Telomere Network Analysis Award and Travel Grant 2020, 2021
+
+Michigan Institute of Data Science Symposium November 2019: "Most Likely to Make an Impact in the Field" Award for Incorporating Subgroups in a Surrogate Endpoint Setting
+
+Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS) Annual Symposium February 2020: "Best Speed Oral Presentation" Presentation/Poster Award for Incorporating Subgroups in a Surrogate Endpoint Setting
+
+Michigan Student Symposium for Interdisciplinary Statistics Symposium February 2021: "Best Speed Oral Presentation" Presentation/Poster Award for Validating Surrogate Endpoints with Longitudinal Outcomes
+
+Society for Clinical Trials May 2022, Best Poster Award for Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials
+
+Women in Statistics and Data Science 2022 Travel Grant
+
+American Statistical Association Lifetime Data Science 2023 Paper Award
+
+Junior Faculty Opportunity Award, University of Iowa 2023
+
+New Faculty Research Award, University of Iowa 2023
+
+
+## Grants and Awarded Funding 
+
+National Institute of Neurological Disorders and Stroke (NINDS) NeuroNEXT. U01 NS077352-11. Coffey, C. PI. 09/2022-Present. Role: Co-Investigator.
+
+University of Iowa Center for Public Health Statistics. Oleson, J. PI. 10/2022-Present. Role: Co-Investigator.
+
+Pilot Grant, College of Public Health New Faculty Research Award. Role: PI on Project Evaluating Surrogate Markers in a Diabetes Clinical Trial with Longitudinal Measures and Causal Inference Methods.
+
+Causal Inference Collaboratory Pilot Funding. IPHPRP University of Iowa.  Role:  PI. 08/2024-07/2025.
+
+Completed
+
+NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 2020-2021, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.
+
+WSDS Travel Grant 2022, Rackham Graduate Travel Grant 2018, 2019, 2021, 2022, Michigan Institute of Data Science Travel Grant 2019, SAMSI Travel Grant 2019, Telomere Network Analysis Award and Travel Grant 2020, 2021
+JSM 2023 Paper and Travel Award, LiDS Section
+
+## Society Membership
+
+American Statistical Association, ENAR, Society for Clinical Trials, Caucus for Women in Statistics
+
+
