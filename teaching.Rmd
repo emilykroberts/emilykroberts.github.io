@@ -31,7 +31,7 @@ Dosten Kpozehouen presents his research at the University of Iowa Cancer Center 
 
 I teach causal inference and introduction to longitudinal data analysis in the [Department of Biostatistics at the University of Iowa](https://catalog.registrar.uiowa.edu/courses/bios/). 
 
-#### BIOS:6650 Causal Inference (Spring 2023, Spring 2024)
+#### BIOS:6650 Causal Inference (Spring 2023, Spring 2024, Spring 2025)
 
 Causal inference overview, emphasis on inference in observational research; conceptual issues (e.g., counterfactuals, causal graphs, time-varying treatments/confounding), methods (e.g., inverse probability weighting, doubly robust estimators), and related applications (e.g., causal mediation analysis, quantitative bias analysis); for advanced biostatistics or epidemiology students.
 
