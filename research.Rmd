@@ -14,7 +14,7 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 
 -Salerno, S., **Roberts, E.K.,** Needham, B., McCormick, T., Mukherjee, B., Shi, X. [What’s the Weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research. arXiv:2406.19597.](https://arxiv.org/abs/2406.19597)
 
--**Roberts, E. K.**, Luo, L., [7 authors], Brouwer, A. (2024). [Time-Varying Associations of Patient Characteristics with Cancer Survival: An Analysis of SEER Data Across 14 Cancer Sites, 2004-2017.](https://link.springer.com/epdf/10.1007/s10552-024-01888-y?sharing_token=6PBQ4UmgLbcoP8H0_7HeG_e4RwlQNchNByi7wbcMAY61dlcuo-u1LtsGmGf6UhSDV2ZAnWAhzDiEAs4lxDgSLCOHvSplfcjArapp66oJ-ANz3I0WHRVc1eiIQzU1mzW6L_T7AHiXcKHLz9OI8_M5SCydU8XEsawm3vw9I2x48OQ%3D) Cancer Causes and Control (online).
+-**Roberts, E. K.**, Luo, L., [7 authors], Brouwer, A. (2024). [Time-Varying Associations of Patient Characteristics with Cancer Survival: An Analysis of SEER Data Across 14 Cancer Sites, 2004-2017.](https://link.springer.com/epdf/10.1007/s10552-024-01888-y?sharing_token=6PBQ4UmgLbcoP8H0_7HeG_e4RwlQNchNByi7wbcMAY61dlcuo-u1LtsGmGf6UhSDV2ZAnWAhzDiEAs4lxDgSLCOHvSplfcjArapp66oJ-ANz3I0WHRVc1eiIQzU1mzW6L_T7AHiXcKHLz9OI8_M5SCydU8XEsawm3vw9I2x48OQ%3D) Cancer Causes and Control.
 
 -**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2023). [Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202200324) Biometrical Journal.
 
@@ -51,11 +51,3 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 -Muller, K. E., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2017). Isolated Atypical Lobular Hyperplasia Diagnosed on Breast Biopsy: Low Upgrade Rate on Subsequent Excision With Long-Term Follow-up. Archives of pathology & laboratory medicine.
 
 -**Roberts, E.** (2015). Mission of Hope Action Research: Analyzing and Understanding Local Homeless. Undergraduate Journal of Service Learning and Community-Based Research.
-
-*Under Review, Revision, and Resubmission*
-
--Morales, K.A., **Roberts, E.**,..., [21 authors], Mierzwa, M. A matched comparison of toxicity in p16+ oropharynx cancer treated with definitive chemoradiation with or without nivolumab.
-
-
-
-
