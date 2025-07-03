@@ -9,11 +9,11 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 ## Publications
 *equal contribution authors
 
--Williams, P.A., **Roberts, E.K.,** Nguyen, Q.A., Rahmouni, K. (2025). Identifying Unimodal Finite Mixture Models in Data Sets Using Distribution Shifting – A Novel Approach. Results in Engineering. (Accepted).
+-Williams, P.A., **Roberts, E.K.,** Nguyen, Q.A., Rahmouni, K. (2025). Identifying Unimodal Finite Mixture Models in Data Sets Using Distribution Shifting – A Novel Approach. Results in Engineering.
 
--Tanaka, T., **Roberts, E.K.,** Platt, J., Axelrod, D. (2025). Longitudinal Assessment of Performance Status in U.S. Liver Transplantation: National Trends and Survival Implications. Transplantation Direct. (Accepted).
+-Tanaka, T., **Roberts, E.K.,** Platt, J., Axelrod, D. (2025). Longitudinal Assessment of Performance Status in U.S. Liver Transplantation: National Trends and Survival Implications. Transplantation Direct.
 
--Abrahamowicz, M., Beauchamp, M.E., **Roberts, E.K.,** Taylor, J.M.G. (2025). Revisiting the Hazards of Hazard Ratios Through Simulations and Case Studies. European Journal of Epidemiology. (Accepted).
+-Abrahamowicz, M., Beauchamp, M.E., **Roberts, E.K.,** Taylor, J.M.G. (2025). [Revisiting the Hazards of Hazard Ratios Through Simulations and Case Studies.](https://link.springer.com/article/10.1007/s10654-025-01245-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250703&utm_content=10.1007%2Fs10654-025-01245-6) European Journal of Epidemiology.
 
 -Yu-Hsiang, W., McMurray, B., Hoth, K.F., Caraher, K., Oleson, J., **Roberts, E.,** Dunn, C. (2025). Factors Associated with Auditory Lifestyle of Adult Cochlear Implant Users. Journal of Speech, Language, and Hearing Research.
 
