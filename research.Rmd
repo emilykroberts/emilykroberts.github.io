@@ -4,9 +4,9 @@ title: "Research"
 
 I am currently building collaborations at the University of Iowa, particularly through our [Causal Inference Collaboratory](https://iphprp.org/opportunities/faculty/collaboratories/causal-inference/). I am involved in the [Clinical Trials Statistical through our Data Management Center and NeuroNEXT](https://neuronext.org/profile/emily-roberts-phd/). My main methodologic focus has been on methods for surrogate endpoints in clinical trials, and my general research interests include clinical trials, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and diabetes, neurologic, and cancer applications. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. During my PhD, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention. Recently, I was awarded at American Statistical Association Lifetime Data Science Paper Award as well as the Junior Faculty Opportunity Award and New Faculty Research Award at the University of Iowa.
 
-Below is a list of my published projects. Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=yh2UbZEAAAAJ&hl=en) to get a complete list of my papers and presentations. 
+Below is a short list of my published projects. Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=yh2UbZEAAAAJ&hl=en) to get a complete list of my papers and presentations. 
 
-## Publications
+## Selected Publications
 *equal contribution authors
 
 -Smith, M.J., **Roberts, E.K.,** Charlton, M.E., Oleson, J.J. (2025). Incorporating Small-area Estimation into Mediation Analyses with Areal Datasets. Spatial and Spatio-temporal Epidemiology. (accepted).
@@ -17,11 +17,11 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 
 -Abrahamowicz, M., Beauchamp, M.E., **Roberts, E.K.,** Taylor, J.M.G. (2025). [Revisiting the Hazards of Hazard Ratios Through Simulations and Case Studies.](https://link.springer.com/article/10.1007/s10654-025-01245-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250703&utm_content=10.1007%2Fs10654-025-01245-6) European Journal of Epidemiology.
 
--Yu-Hsiang, W., McMurray, B., Hoth, K.F., Caraher, K., Oleson, J., **Roberts, E.,** Dunn, C. (2025). Factors Associated with Auditory Lifestyle of Adult Cochlear Implant Users. Journal of Speech, Language, and Hearing Research.
+-Yu-Hsiang, W., McMurray, B., Hoth, K.F., Caraher, K., Oleson, J., **Roberts, E.,** Dunn, C. (2025). [Factors Associated with Auditory Lifestyle of Adult Cochlear Implant Users.](https://pubs.asha.org/doi/abs/10.1044/2025_JSLHR-24-00567) Journal of Speech, Language, and Hearing Research.
 
--Cherwin, C., Hoang, J., **Roberts, E.K.,** Mangalam, A. (2025). Gut Microbiome and Symptom Burden in Obese and Non-Obese Women Receiving Chemotherapy for Breast Cancer. Biological Research for Nursing.
+-Cherwin, C., Hoang, J., **Roberts, E.K.,** Mangalam, A. (2025). [Gut Microbiome and Symptom Burden in Obese and Non-Obese Women Receiving Chemotherapy for Breast Cancer.](https://journals.sagepub.com/doi/abs/10.1177/10998004251318397) Biological Research for Nursing.
 
--Tanaka, T., **Roberts, E.K.,* ** Platt, J.* (2024). Revisiting the Effect of Acute-on-Chronic Liver Failure on Post-Liver Transplant Survival. Hepatology Communications.
+-Tanaka, T., **Roberts, E.K.,* ** Platt, J.* (2024). [Reduced short-term survival following liver transplant in patients with acute-on-chronic liver failure: Reevaluating OPTN data.](https://journals.lww.com/hepcomm/fulltext/2025/03010/reduced_short_term_survival_following_liver.7.aspx) Hepatology Communications.
 
 -Salerno, S., **Roberts, E.K.,** Needham, B., McCormick, T., Mukherjee, B., Shi, X. [What’s the Weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research. arXiv:2406.19597.](https://arxiv.org/abs/2406.19597)
 
@@ -45,20 +45,14 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 
 -Needham, B. L., Salerno, S., **Roberts, E.**, Boss, J., Allgood, K. L., Mukherjee, B. (2020). [Do Black/White Differences in Telomere Length Depend on Socioeconomic Status?](https://pmc.ncbi.nlm.nih.gov/articles/PMC7703670/) Biodemography and Social Biology.
 
--Hanks, J. E., Kovatch, K. J., Ali S. A., **Roberts E.**, Durham, A. B., Smith, J. D., Bradford, C. R., Malloy, K. M., Boonstra, P. S., McLean, S. A. (2020). Sentinel Lymph Node Biopsy in Head & Neck Melanoma: Long-Term Outcomes, Prognostic Value, & Accuracy. Otolaryngology–Head and Neck Surgery.
+-Hanks, J. E., Kovatch, K. J., Ali S. A., **Roberts E.**, Durham, A. B., Smith, J. D., Bradford, C. R., Malloy, K. M., Boonstra, P. S., McLean, S. A. (2020). [Sentinel Lymph Node Biopsy in Head & Neck Melanoma: Long-Term Outcomes, Prognostic Value, & Accuracy.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8012010/pdf/nihms-1672178.pdf) Otolaryngology–Head and Neck Surgery.
 
--Siontis, B., McHugh, J., **Roberts, E.**, Zhao, L., Thomas, D., Baker, L., Owen, D., Biermann, J.S., Schuetze, S.M., Chugh, R. (2019). Radiation-Associated Versus Sporadic Osteosarcoma: A Single-Institution Experience. Frontiers in Oncology.
+-Siontis, B., McHugh, J., **Roberts, E.**, Zhao, L., Thomas, D., Baker, L., Owen, D., Biermann, J.S., Schuetze, S.M., Chugh, R. (2019). [Radiation-Associated Versus Sporadic Osteosarcoma: A Single-Institution Experience.](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2019.01523/full) Frontiers in Oncology.
 
--East, E. G., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2019). Repeat Biomarker Status in Breast Resection Specimens With Controlled Cold Ischemic Time. American journal of clinical pathology.
+-East, E. G., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2019). [Repeat Biomarker Status in Breast Resection Specimens With Controlled Cold Ischemic Time.](https://academic.oup.com/ajcp/article/152/6/766/5537575) American journal of clinical pathology.
 
--Geer, M.\*, **Roberts, E.**\*, Shango M., Till B., Smith S., Abbas .H, Hill B., Kaplan J., Barr P.M., Caimi P.F., Stephens D.M., Lin E., Herrera A.F., Rosenbaum E., Amengual K., Boonstra P.S., Devata S., Wilcox R.A., Kaminski M., and Phillips T. (2019). Multicentre retrospective study of intravascular large B‐cell lymphoma treated at academic institutions within the United States. British journal of haematology. 
+-Geer, M.\*, **Roberts, E.**\*, Shango M., Till B., Smith S., Abbas .H, Hill B., Kaplan J., Barr P.M., Caimi P.F., Stephens D.M., Lin E., Herrera A.F., Rosenbaum E., Amengual K., Boonstra P.S., Devata S., Wilcox R.A., Kaminski M., and Phillips T. (2019). [Multicentre retrospective study of intravascular large B‐cell lymphoma treated at academic institutions within the United States.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8989046/pdf/nihms-1790010.pdf) British journal of haematology. 
 
--East, E., Gabbeart, M., **Roberts, E.**, Zhao, L. & Jorns, J. (2018). A Rapid Triage Protocol to Optimize Cold Ischemic Time for Breast Resection Specimens. Annals of Diagnostic Pathology.
+-Kahn, J. M., Cole, P. D., Blonquist, T. M., T. M., Stevenson, K., Jin, Z., Barrera, S., Davila, R., **Roberts, E.**, [10 authors], Kelly, K.  (2018). [An investigation of toxicities and survival in Hispanic children and adolescents with ALL: Results from the Dana‐Farber Cancer Institute ALL Consortium protocol 05‐001.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5766393/pdf/nihms911247.pdf) Pediatric blood & cancer.
 
--Kahn, J. M., Cole, P. D., Blonquist, T. M., T. M., Stevenson, K., Jin, Z., Barrera, S., Davila, R., **Roberts, E.**, [10 authors], Kelly, K.  (2018). An investigation of toxicities and survival in Hispanic children and adolescents with ALL: Results from the Dana‐Farber Cancer Institute ALL Consortium protocol 05‐001. Pediatric blood & cancer, 65(3).
-
--East, E. G., Gast, K. M., Kuzon, W. M., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2017). Clinicopathologic Findings in Female‐to‐Male Gender‐Affirming Breast Surgery. Histopathology.
-
--Muller, K. E., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2017). Isolated Atypical Lobular Hyperplasia Diagnosed on Breast Biopsy: Low Upgrade Rate on Subsequent Excision With Long-Term Follow-up. Archives of pathology & laboratory medicine.
-
--**Roberts, E.** (2015). Mission of Hope Action Research: Analyzing and Understanding Local Homeless. Undergraduate Journal of Service Learning and Community-Based Research.
+-Muller, K. E., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2017). [Isolated Atypical Lobular Hyperplasia Diagnosed on Breast Biopsy: Low Upgrade Rate on Subsequent Excision With Long-Term Follow-up.](https://meridian.allenpress.com/aplm/article/142/3/391/102956) Archives of pathology & laboratory medicine.
