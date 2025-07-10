@@ -3,15 +3,18 @@ title: "Emily Roberts, PhD"
 ---
 
 
-### &nbsp; Assistant Professor
 
-### &nbsp; Department of Biostatistics
+<div style="text-align: center; margin-top: 40px;">
+ <h1></h1>
+ <h3>Assistant Professor</h3>
+ <h4>Department of Biostatistics</h4>
+ <h4>College of Public Health</h4>
+ <h4>University of Iowa</h4>
+</div>
 
-### &nbsp; College of Public Health
+<div style="max-width: 800px; margin: 40px auto; line-height: 1.6; font-size: 1.1em;">
+ <p>
 
-### &nbsp; University of Iowa
-
-<br clear="left"/>
 
 Hi! I am an [assistant professor of biostatistics at the University of Iowa](https://www.public-health.uiowa.edu/people/emily-roberts/). Welcome to my page where I have included a bit about myself and my work. I'm excited about statistical methodology that can be meaningfully used in a clinical setting. 
 
