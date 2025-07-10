@@ -9,6 +9,8 @@ Below is a list of my published projects. Please refer to my [Google Scholar pag
 ## Publications
 *equal contribution authors
 
+-Smith, M.J., **Roberts, E.K.,** Charlton, M.E., Oleson, J.J. (2025). Incorporating Small-area Estimation into Mediation Analyses with Areal Datasets. Spatial and Spatio-temporal Epidemiology. (accepted).
+
 -Williams, P.A., **Roberts, E.K.,** Nguyen, Q.A., Rahmouni, K. (2025). Identifying Unimodal Finite Mixture Models in Data Sets Using Distribution Shifting – A Novel Approach. Results in Engineering.
 
 -Tanaka, T., **Roberts, E.K.,** Platt, J., Axelrod, D. (2025). Longitudinal Assessment of Performance Status in U.S. Liver Transplantation: National Trends and Survival Implications. Transplantation Direct.
