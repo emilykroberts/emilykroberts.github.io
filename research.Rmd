@@ -9,7 +9,11 @@ Below is a short list of my published projects. Please refer to my [Google Schol
 ## Selected Publications
 *equal contribution authors
 
--Smith, M.J., **Roberts, E.K.,** Charlton, M.E., Oleson, J.J. (2025). Incorporating Small-area Estimation into Mediation Analyses with Areal Datasets. Spatial and Spatio-temporal Epidemiology. (accepted).
+-Sursely, A.M., Nash, S.H., Sadler, A. G., **Roberts, E.K.,** Torner, J.C., Platt, J.M. (2025). Exploring Contextual Details in Suicide Precipitating Circumstances: A Qualitative Content Analysis of National Violent Death Reporting System (NVDRS) Narrative Reports. Journal of Psychiatry and Brain Science.
+
+-Sursely, A.M., **Roberts, E.K.,** Nash, S.H., Sadler, A.G., Torner, J.C., Platt, J.M. (2025). Crisis Circumstances in US Suicide Deaths: Latent Class Analysis of National Violent Death Reporting System Data from 2013-2021. American Journal of Preventative Medicine.
+
+-Smith, M.J., **Roberts, E.K.,** Charlton, M.E., Oleson, J.J. (2025). Incorporating Small-area Estimation into Mediation Analyses with Areal Datasets. Spatial and Spatio-temporal Epidemiology.
 
 -Williams, P.A., **Roberts, E.K.,** Nguyen, Q.A., Rahmouni, K. (2025). Identifying Unimodal Finite Mixture Models in Data Sets Using Distribution Shifting – A Novel Approach. Results in Engineering.
 
