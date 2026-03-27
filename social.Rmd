@@ -2,34 +2,134 @@
 title: "More about me"
 ---
 
-Outside of research, I enjoy traveling, photography, salsa dancing, baking, and podcasts. I love cheering for my favorite teams - go blue and go Hawks -especially Iowa women's basketball! I am also passionate about combining my academic interests with public good, and am currently or have been involved in outreach efforts such as [Girls Who Code](http://umich.edu/~girlswc/), [Statistics in the Community (Statcom)](https://sph.umich.edu/biostat/statcom/), and the [Iowa chapter of the American Statistical Association](https://community.amstat.org/iowachapter/home).
+<style>
+.hero-sub {
+  text-align: center;
+  padding: 56px 20px 40px;
+  background: linear-gradient(180deg, #fdecef 0%, #ffffff 100%);
+  border-bottom: 1px solid #f2cbd4;
+  margin-bottom: 42px;
+}
 
-### Beyond Type One
+.hero-sub h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
 
-I trained for my first marathon! I was a part of the 2022 Beyond Type Run charity team to raise awareness and increase resources for type one diabetics. You can [read more about my story and help support here.](https://donate.beyondtype1.org/fundraiser/4021305) Diabetes has played a major role in my life, including in my academic pursuits toward being involved in meaningful and impactful medical research. I'm always happy to share more about my journey if you're interested in learning more about T1D.
+.hero-sub p {
+  color: #555;
+  max-width: 620px;
+  margin: 0 auto;
+  font-size: 1.05em;
+}
+
+.section {
+  max-width: 760px;
+  margin: 0 auto 44px;
+  font-size: 1.08em;
+  line-height: 1.7;
+}
+
+.section h2 {
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 24px;
+  margin-top: 12px;
+}
+
+.grid p {
+  margin: 0;
+}
+
+.subtle {
+  color: #555;
+}
+
+.footer-note {
+  margin-top: 28px;
+  font-size: 0.95em;
+  color: #666;
+  text-align: center;
+}
+
+a {
+  color: #b45373;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<!-- HERO HEADER -->
+<div class="hero-sub">
+
+  <h1>More about me</h1>
+
+  <p>
+    A bit about what I enjoy outside of research including outreach and community engagement.
+  </p>
+
+</div>
+
+<!-- PERSONAL INTERESTS -->
+<div class="section">
+
+<h2>Outside of research</h2>
+
+<p>
+I enjoy traveling, photography, salsa dancing, baking, and podcasts.
+I also love cheering for my favorite teams (go blue and go Hawks),
+especially Iowa women’s basketball.
+</p>
+
+<p>
+I’m particularly interested in connecting academic work with the public good,
+and have been involved in outreach efforts such as:
+</p>
+
+<ul>
+  <li><a href="http://umich.edu/~girlswc/">Girls Who Code</a></li>
+  <li><a href="https://sph.umich.edu/biostat/statcom/">Statistics in the Community (Statcom)</a></li>
+  <li><a href="https://community.amstat.org/iowachapter/home">ASA Iowa Chapter</a></li>
+</ul>
+
+</div>
+
+<!-- BEYOND TYPE ONE -->
+<div class="section">
+
+<h2>Beyond Type One</h2>
+
+<p>
+I trained for my first marathon as part of the <strong>2022 Beyond Type One Run charity team</strong>,
+raising awareness and resources for people living with Type 1 diabetes.
+</p>
+
+<p>
+You can <a href="https://donate.beyondtype1.org/fundraiser/4021305">read more about my journey here</a>.
+Living with Type 1 diabetes has shaped both my personal and academic path,
+including my focus on meaningful and impactful medical research.
+</p>
+
+</div>
+
+<!-- HIGHLIGHTS (RESTRUCTURED) -->
+<div class="section">
 
 
-### Links and Fun News
+<!-- CLEAN ENDING -->
+<div class="section">
 
-```{r, echo = F}
-library(tweetrmd)
-tweet_embed("https://x.com/emilyk_roberts/status/1820570326105010618", hide_media = F)
-tweet_embed("https://x.com/emilyk_roberts/status/1783139025718595946", hide_media = F)
-tweet_embed("https://x.com/emilyk_roberts/status/1779860588098662845", hide_media = F)
-tweet_embed("https://twitter.com/ENAR_ibs/status/1767347114219045012", hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1767163643282555013", hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1766816274037014821", hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1748068958442299436", hide_media = F)
+<p class="footer-note">
+I occasionally share updates about conferences, coding workshops, ASA chapter activities, and thoughts on 
+<a href="https://x.com/emilyk_roberts">Twitter</a>.
+</p>
 
-tweet_embed("https://twitter.com/emilyk_roberts/status/1728927190082081056", hide_media = F)
-tweet_embed("https://twitter.com/UIowaCPH/status/1709927767226384664", plain = T, hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1708832495716663531", hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1707018821091864909", hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1715422500366987296", hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1689240368938655744", hide_media = F)
-tweet_embed("https://twitter.com/proffcoff/status/1684899612228792320", hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1671165496396484608", hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1658878065898815510", hide_media = F)
-tweet_embed("https://twitter.com/proffcoff/status/1645975286402392065", hide_media = F)
-tweet_embed("https://twitter.com/emilyk_roberts/status/1637859594650124288", hide_media = F)
-```
+</div>
