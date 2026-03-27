@@ -2,7 +2,16 @@
 title: ""
 ---
 
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
+
 <style>
+body {
+  font-family: 'Inter', sans-serif;
+  color: #333;
+}
+
+/* Hero links */
 .hero a { 
   color: #b45373;
   text-decoration: none; 
@@ -12,6 +21,7 @@ title: ""
   text-decoration: underline; 
 }
 
+/* Content links */
 .content a { 
   color: #b45373; 
   text-decoration: none; 
@@ -20,8 +30,29 @@ title: ""
   text-decoration: underline; 
 }
 
+/* Typography tweaks */
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+/* Content spacing */
+.content {
+  line-height: 1.7;
+}
+
+/* News styling */
 .news li { 
-  margin-bottom: 14px; 
+  margin-bottom: 16px; 
+}
+
+.news a {
+  font-size: 0.95em;
 }
 </style>
 
@@ -30,12 +61,12 @@ title: ""
   padding: 64px 20px 48px;
   background: linear-gradient(180deg, #fdecef 0%, #ffffff 100%);
   border-bottom: 1px solid #f2cbd4;
-  margin-bottom: 36px;
+  margin-bottom: 48px;
 ">
 
   <h1 style="margin-bottom: 8px;">Emily Roberts, PhD</h1>
 
-  <h3 style="margin: 6px 0; font-weight: 500;">
+  <h3 style="margin: 6px 0;">
     Assistant Professor of Biostatistics
   </h3>
 
@@ -50,8 +81,8 @@ title: ""
     line-height: 1.6;
     color: #444;
   ">
-    Statistical methodology for biomedical and public health research,
-    with a focus on meaningful interdisciplinary collaboration.
+    Developing statistical methods for clinical trials and causal inference,
+    grounded in real-world collaboration.
   </p>
 
 </div>
@@ -59,7 +90,6 @@ title: ""
 <div class="content" style="
   max-width: 780px;
   margin: 0 auto 48px;
-  line-height: 1.65;
   font-size: 1.1em;
 ">
 
@@ -82,9 +112,12 @@ with a BA in mathematics and psychology.
 </p>
 
 <p>
-I was diagnosed with Type 1 diabetes at the age of four,
-and this continues to shape how I approach research,
-teaching, and collaboration.
+Living with Type 1 diabetes since age four continues to shape how I approach research, teaching, and collaboration.
+</p>
+
+<p>
+I am always interested in collaborative work in clinical trials,
+causal inference, and public health applications.
 </p>
 
 </div>
@@ -100,55 +133,57 @@ teaching, and collaboration.
   line-height: 1.6;
 ">
 
-<ul>
+<ul style="padding-left: 18px;">
+
   <li>
     <strong>Roberts to Lead University of Iowa Causal Inference Collaboratory</strong><br>
     <a href="https://www.public-health.uiowa.edu/news-items/roberts-to-lead-collaboratory-focused-on-causal-inference-research/">
-      University of Iowa College of Public Health
+      Read more
     </a>
   </li>
 
   <li>
     <strong>University of Iowa’s Meet the Faculty</strong><br>
     <a href="https://www.public-health.uiowa.edu/news-items/meet-our-faculty-emily-roberts/">
-      College of Public Health
+      Read more
     </a>
   </li>
 
   <li>
     <strong>Running Beyond Type One: My T1D and PhD Journey</strong><br>
     <a href="https://beyondtype1.org/nyc-marathon-phd-training-roberts/">
-      Beyond Type 1
+      Read more
     </a>
   </li>
 
   <li>
     <strong>Rackham Predoctoral Fellowship Recipient</strong><br>
     <a href="https://rackham.umich.edu/predoctoral-fellowship-celebration/">
-      University of Michigan
+      Read more
     </a>
   </li>
 
   <li>
     <strong>Kohawk Stories</strong><br>
     <a href="https://www.coe.edu/why-coe/kohawk-stories/emily-roberts">
-      Coe College
+      Read more
     </a>
   </li>
 
   <li>
     <strong>McElroy Fellowship</strong><br>
     <a href="https://www.mcelroytrust.org/success-stories">
-      McElroy Trust
+      Read more
     </a>
   </li>
 
   <li>
-    <strong>The Gazette</strong><br>
+    <strong>The Gazette Feature</strong><br>
     <a href="https://www.thegazette.com/higher-education/coe-grad-receives-prestigious-fellowships/">
-      News Story
+      Read more
     </a>
   </li>
+
 </ul>
 
 </div>
