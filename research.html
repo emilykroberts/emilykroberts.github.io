@@ -319,41 +319,127 @@ $(document).ready(function () {
 </div>
 
 
+<!-- Google Fonts -->
+<p><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet"></p>
+<style>
+body {
+  font-family: 'Inter', sans-serif;
+  color: #333;
+}
+
+/* Hero links */
+.hero a {
+  color: #b45373;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.hero a:hover {
+  text-decoration: underline;
+}
+
+/* Content links */
+.content a {
+  color: #b45373;
+  text-decoration: none;
+}
+
+.content a:hover {
+  text-decoration: underline;
+}
+
+/* Typography */
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+/* Content spacing */
+.content {
+  line-height: 1.7;
+}
+
+/* News cards without images */
+.news-cards {
+  max-width: 760px;
+  margin: 0 auto 64px;
+  display: grid;
+  gap: 14px;
+}
+
+.news-card {
+  display: block;
+  padding: 16px 18px;
+  border-radius: 12px;
+  border: 1px solid #f2cbd4;
+  background: #ffffff;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.news-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
+}
+
+.news-card strong {
+  display: block;
+  font-size: 1.05em;
+  line-height: 1.4;
+}
+
+.news-card span {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.9em;
+  color: #666;
+}
+</style>
+<!-- HERO -->
+<div class="hero" style="
+  text-align: center;
+  padding: 64px 20px 48px;
+  background: linear-gradient(180deg, #fdecef 0%, #ffffff 100%);
+  border-bottom: 1px solid #f2cbd4;
+  margin-bottom: 48px;
+">
 <p><em>Developing and applying statistical methodology for clinical
 trials and causal inference, grounded in real‑world scientific
 collaboration.</em></p>
 <p>At the University of Iowa, I am building and leading
-interdisciplinary research partnerships through our</p>
-<p><strong><a
+interdisciplinary research partnerships through our <strong><a
 href="https://iphprp.org/opportunities/faculty/collaboratories/causal-inference/">Causal
-Inference Collaboratory</a></strong></p>
-<p>and am involved in multicenter clinical trials through our</p>
-<p><strong><a
+Inference Collaboratory</a></strong> and am involved in multicenter
+clinical trials through our <strong><a
 href="https://neuronext.org/profile/emily-roberts-phd/">Clinical Trials
 Statistical and Data Management Center via the Data Coordinating Center
-and NeuroNEXT</a></strong></p>
-<p>A central focus of my work is the evaluation and validation of
-<strong>surrogate and intermediate endpoints</strong> in clinical
-trials.<br />
-More broadly, my methodological interests include:</p>
-<ul>
-<li>Clinical trial design and analysis<br />
-</li>
-<li>Causal inference<br />
-</li>
-<li>Survival and time‑to‑event analysis<br />
-</li>
-<li>Longitudinal and repeated‑measures data<br />
-</li>
-<li>Bayesian methods<br />
-</li>
-<li>Futility and interim monitoring<br />
-</li>
-<li>Biomarkers</li>
-</ul>
+and NeuroNEXT</a></strong>. A central focus of my work is at the
+overlap, such as the evaluation and validation of <em>surrogate and
+intermediate endpoints</em> in clinical trials. More broadly, my
+methodological interests include:</p>
+<p>Clinical trial design and analysis<br />
+Causal inference<br />
+Survival and time‑to‑event analysis<br />
+Longitudinal and repeated‑measures data<br />
+Bayesian methods<br />
+Futility and interim monitoring</p>
 <p>These methods are developed and applied in substantive collaborations
-across <strong>diabetes</strong>, <strong>neurologic disease</strong>,
-and <strong>cancer</strong>.</p>
+across <em>diabetes</em>, <em>neurologic and psychiatric
+conditions</em>, and <em>cancer</em>.</p>
+</div>
+<!-- MAIN CONTENT -->
+<div class="content" style="
+  max-width: 780px;
+  margin: 0 auto 48px;
+  font-size: 1.1em;
+">
+
 <div id="training-and-recognition" class="section level2">
 <h2>Training and Recognition</h2>
 <p>My research training began at the University of Michigan, where I
