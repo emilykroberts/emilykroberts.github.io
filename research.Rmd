@@ -2,61 +2,80 @@
 title: "Research"
 ---
 
-I am currently building collaborations at the University of Iowa, particularly through our [Causal Inference Collaboratory](https://iphprp.org/opportunities/faculty/collaboratories/causal-inference/). I am involved in the [Clinical Trials Statistical through our Data Management Center and NeuroNEXT](https://neuronext.org/profile/emily-roberts-phd/). My main methodologic focus has been on methods for surrogate endpoints in clinical trials, and my general research interests include clinical trials, causal inference, survival analysis, longitudinal measures, Bayesian methods, futility analysis, biomarkers, and diabetes, neurologic, and cancer applications. At the University of Michigan, I began research on the NIH Cancer Training Grant in Biostatistics in 2016 and was an NSF Graduate Research Fellow. During my PhD, I was awarded the University of Michigan Department of Biostatistics Excellence in Research Award Honorable Mention. Recently, I was awarded at American Statistical Association Lifetime Data Science Paper Award as well as the Junior Faculty Opportunity Award and New Faculty Research Award at the University of Iowa.
+*Developing and applying statistical methodology for clinical trials and causal inference, grounded in real‑world scientific collaboration.*
 
-Below is a short list of my published projects. Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=yh2UbZEAAAAJ&hl=en) to get a complete list of my papers and presentations. 
+
+At the University of Iowa, I am building and leading interdisciplinary research partnerships through our
+
+**[Causal Inference Collaboratory](https://iphprp.org/opportunities/faculty/collaboratories/causal-inference/)**  
+
+and am involved in multicenter clinical trials through our
+
+**[Clinical Trials Statistical and Data Management Center via the Data Coordinating Center and NeuroNEXT](https://neuronext.org/profile/emily-roberts-phd/)**
+
+A central focus of my work is the evaluation and validation of **surrogate and intermediate endpoints** in clinical trials.  
+More broadly, my methodological interests include:
+
+- Clinical trial design and analysis  
+- Causal inference  
+- Survival and time‑to‑event analysis  
+- Longitudinal and repeated‑measures data  
+- Bayesian methods  
+- Futility and interim monitoring  
+- Biomarkers 
+
+These methods are developed and applied in substantive collaborations across **diabetes**, **neurologic disease**, and **cancer**.
+
+## Training and Recognition
+
+My research training began at the University of Michigan, where I joined the **NIH Cancer Training Grant in Biostatistics** in 2016 and was later supported as a **National Science Foundation Graduate Research Fellow**.
+
+During my doctoral training, I received the University of Michigan Department of Biostatistics *Excellence in Research Award* (Honorable Mention).  More recently, my work has been recognized with the *American Statistical Association Lifetime Data Science Paper Award*, as well as the *Junior Faculty Opportunity Award* and *New Faculty Research Award* at the University of Iowa.
+
 
 ## Selected Publications
-*equal contribution authors
 
--Sursely, A.M., Nash, S.H., Sadler, A. G., **Roberts, E.K.,** Torner, J.C., Platt, J.M. (2025). Exploring Contextual Details in Suicide Precipitating Circumstances: A Qualitative Content Analysis of National Violent Death Reporting System (NVDRS) Narrative Reports. Journal of Psychiatry and Brain Science.
+Below is a selected list of peer‑reviewed publications reflecting my methodological and collaborative research agenda.  
+A complete and up‑to‑date list of papers and presentations is available on my   **[Google Scholar profile](https://scholar.google.com/citations?user=yh2UbZEAAAAJ&hl=en)**.
 
--Sursely, A.M., **Roberts, E.K.,** Nash, S.H., Sadler, A.G., Torner, J.C., Platt, J.M. (2025). Crisis Circumstances in US Suicide Deaths: Latent Class Analysis of National Violent Death Reporting System Data from 2013-2021. American Journal of Preventative Medicine.
+---
 
--Smith, M.J., **Roberts, E.K.,** Charlton, M.E., Oleson, J.J. (2025). Incorporating Small-area Estimation into Mediation Analyses with Areal Datasets. Spatial and Spatio-temporal Epidemiology.
+Sursely, A. M., Nash, S. H., Sadler, A. G., **Roberts, E. K.**, Torner, J. C., Platt, J. M. (2025)  
+Exploring contextual details in suicide precipitating circumstances:  A qualitative content analysis of NVDRS narrative reports  
+*Journal of Psychiatry and Brain Science*
 
--Williams, P.A., **Roberts, E.K.,** Nguyen, Q.A., Rahmouni, K. (2025). Identifying Unimodal Finite Mixture Models in Data Sets Using Distribution Shifting – A Novel Approach. Results in Engineering.
+---
 
--Tanaka, T., **Roberts, E.K.,** Platt, J., Axelrod, D. (2025). Longitudinal Assessment of Performance Status in U.S. Liver Transplantation: National Trends and Survival Implications. Transplantation Direct.
+Sursely, A. M., **Roberts, E. K.**, Nash, S. H., Sadler, A. G., Torner, J. C., Platt, J. M. (2025)  
+Crisis circumstances in U.S. suicide deaths:  A latent class analysis of NVDRS data from 2013–2021  
+*American Journal of Preventive Medicine*
 
--Abrahamowicz, M., Beauchamp, M.E., **Roberts, E.K.,** Taylor, J.M.G. (2025). [Revisiting the Hazards of Hazard Ratios Through Simulations and Case Studies.](https://link.springer.com/article/10.1007/s10654-025-01245-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250703&utm_content=10.1007%2Fs10654-025-01245-6) European Journal of Epidemiology.
+---
 
--Yu-Hsiang, W., McMurray, B., Hoth, K.F., Caraher, K., Oleson, J., **Roberts, E.,** Dunn, C. (2025). [Factors Associated with Auditory Lifestyle of Adult Cochlear Implant Users.](https://pubs.asha.org/doi/abs/10.1044/2025_JSLHR-24-00567) Journal of Speech, Language, and Hearing Research.
+Smith, M. J., **Roberts, E. K.**, Charlton, M. E., Oleson, J. J. (2025)  
+Incorporating small‑area estimation into mediation analyses with areal datasets  
+*Spatial and Spatio‑temporal Epidemiology*
 
--Cherwin, C., Hoang, J., **Roberts, E.K.,** Mangalam, A. (2025). [Gut Microbiome and Symptom Burden in Obese and Non-Obese Women Receiving Chemotherapy for Breast Cancer.](https://journals.sagepub.com/doi/abs/10.1177/10998004251318397) Biological Research for Nursing.
+---
 
--Tanaka, T., **Roberts, E.K.,* ** Platt, J.* (2024). [Reduced short-term survival following liver transplant in patients with acute-on-chronic liver failure: Reevaluating OPTN data.](https://journals.lww.com/hepcomm/fulltext/2025/03010/reduced_short_term_survival_following_liver.7.aspx) Hepatology Communications.
+Williams, P. A., **Roberts, E. K.**, Nguyen, Q. A., Rahmouni, K. (2025)  
+Identifying unimodal finite mixture models using distribution shifting  
+*Results in Engineering*
 
--Salerno, S., **Roberts, E.K.,** Needham, B., McCormick, T., Mukherjee, B., Shi, X. [What’s the Weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research. arXiv:2406.19597.](https://arxiv.org/abs/2406.19597)
+---
 
--**Roberts, E. K.**, Luo, L., [7 authors], Brouwer, A. (2024). [Time-Varying Associations of Patient Characteristics with Cancer Survival: An Analysis of SEER Data Across 14 Cancer Sites, 2004-2017.](https://link.springer.com/epdf/10.1007/s10552-024-01888-y?sharing_token=6PBQ4UmgLbcoP8H0_7HeG_e4RwlQNchNByi7wbcMAY61dlcuo-u1LtsGmGf6UhSDV2ZAnWAhzDiEAs4lxDgSLCOHvSplfcjArapp66oJ-ANz3I0WHRVc1eiIQzU1mzW6L_T7AHiXcKHLz9OI8_M5SCydU8XEsawm3vw9I2x48OQ%3D) Cancer Causes and Control.
+Tanaka, T., **Roberts, E. K.**, Platt, J., Axelrod, D. (2025)  
+Longitudinal assessment of performance status in U.S. liver transplantation:  National trends and survival implications  
+*Transplantation Direct*
 
--**Roberts, E. K.**, Elliott, M. R., & Taylor, J. M. (2023). [Surrogacy Validation for Time-to-Event Outcomes with Illness-Death Frailty Models.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202200324) Biometrical Journal.
+---
 
--**Roberts, E.K.**, Elliott, M.R., & Taylor, J.M.G. (2023). [Solutions for Surrogacy Validation with Longitudinal Outcomes for a Gene Therapy.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/biom.13720) Biometrics.
+**Roberts, E. K.**, Elliott, M. R., Taylor, J. M. G. (2023)  
+[Surrogacy validation for time‑to‑event outcomes with illness–death frailty models](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202200324)  
+*Biometrical Journal*
 
--**Roberts, E.K.**\*, Boss, J.*, Zota, A., Salerno, S., Mukherjee, B., Needham, B. (2022). [Mediation Analysis of Race and Environmental Exposures on Telomere Length Using NHANES (1999-2002).](https://www.nature.com/articles/s41598-022-24316-0.pdf) Scientific Reports.
+---
 
--**Roberts, E.K.**, Gu, T., Mukherjee, B., Fristche, L. (2022). [Estimating COVID-19 Vaccination Effectiveness Using Electronic Health Records of an Academic Medical Center in Michigan.](https://www.ajpmfocus.org/article/S2773-0654(22)00013-X/fulltext) AJPM Focus. 
-
--Vornhagen, J., **Roberts, E.K.**, … [13 authors] Bachman, M.A. (2022). [Comparative Genomics Reveals Plasmid-Encoded Genes Associated with Klebsiella Infection in Colonized Patients.](https://doi.org/10.21203/rs.3.rs-1254643/v1) Nature Communications.
-
--**Roberts, E.** & Zhao, L. (2021). [A Bayesian Mixture Model to Estimate Changepoints in Ordinal Predictors.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9156335/) International Journal of Biostatistics.
-
--**Roberts, E. K.**, Elliott, M.R., Taylor, J.M.G. (2021). [Incorporating Baseline Covariates to Validate Surrogate Endpoints with a Constant Biomarker Under Control Arm.](https://europepmc.org/article/med/34528260) Statistics in Medicine.
-
--Sun, Y., Patel, A., SantaLucia, J., **Roberts, E.**, Zhao, L., Kaye, K., Rao, K., Bachman, M. (2021). [Measurement of Klebsiella Intestinal Colonization Density to Assess Infection Risk.](https://journals.asm.org/doi/pdf/10.1128/msphere.00500-21) mSphere.
-
--Needham, B. L., Salerno, S., **Roberts, E.**, Boss, J., Allgood, K. L., Mukherjee, B. (2020). [Do Black/White Differences in Telomere Length Depend on Socioeconomic Status?](https://pmc.ncbi.nlm.nih.gov/articles/PMC7703670/) Biodemography and Social Biology.
-
--Hanks, J. E., Kovatch, K. J., Ali S. A., **Roberts E.**, Durham, A. B., Smith, J. D., Bradford, C. R., Malloy, K. M., Boonstra, P. S., McLean, S. A. (2020). [Sentinel Lymph Node Biopsy in Head & Neck Melanoma: Long-Term Outcomes, Prognostic Value, & Accuracy.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8012010/pdf/nihms-1672178.pdf) Otolaryngology–Head and Neck Surgery.
-
--Siontis, B., McHugh, J., **Roberts, E.**, Zhao, L., Thomas, D., Baker, L., Owen, D., Biermann, J.S., Schuetze, S.M., Chugh, R. (2019). [Radiation-Associated Versus Sporadic Osteosarcoma: A Single-Institution Experience.](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2019.01523/full) Frontiers in Oncology.
-
--East, E. G., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2019). [Repeat Biomarker Status in Breast Resection Specimens With Controlled Cold Ischemic Time.](https://academic.oup.com/ajcp/article/152/6/766/5537575) American journal of clinical pathology.
-
--Geer, M.\*, **Roberts, E.**\*, Shango M., Till B., Smith S., Abbas .H, Hill B., Kaplan J., Barr P.M., Caimi P.F., Stephens D.M., Lin E., Herrera A.F., Rosenbaum E., Amengual K., Boonstra P.S., Devata S., Wilcox R.A., Kaminski M., and Phillips T. (2019). [Multicentre retrospective study of intravascular large B‐cell lymphoma treated at academic institutions within the United States.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8989046/pdf/nihms-1790010.pdf) British journal of haematology. 
-
--Kahn, J. M., Cole, P. D., Blonquist, T. M., T. M., Stevenson, K., Jin, Z., Barrera, S., Davila, R., **Roberts, E.**, [10 authors], Kelly, K.  (2018). [An investigation of toxicities and survival in Hispanic children and adolescents with ALL: Results from the Dana‐Farber Cancer Institute ALL Consortium protocol 05‐001.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5766393/pdf/nihms911247.pdf) Pediatric blood & cancer.
-
--Muller, K. E., **Roberts, E.**, Zhao, L., & Jorns, J. M. (2017). [Isolated Atypical Lobular Hyperplasia Diagnosed on Breast Biopsy: Low Upgrade Rate on Subsequent Excision With Long-Term Follow-up.](https://meridian.allenpress.com/aplm/article/142/3/391/102956) Archives of pathology & laboratory medicine.
+**Roberts, E. K.**, Elliott, M. R., Taylor, J. M. G. (2023)  
+[Solutions for surrogacy validation with longitudinal outcomes for a gene therapy](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/biom.13720)  
+*Biometrics*
