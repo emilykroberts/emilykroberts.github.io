@@ -2,59 +2,198 @@
 title: "Teaching and Mentoring"
 ---
 
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
+
+<style>
+body {
+  font-family: 'Inter', sans-serif;
+  color: #333;
+}
+
+.hero a {
+  color: #b45373;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.hero a:hover {
+  text-decoration: underline;
+}
+
+.content a {
+  color: #b45373;
+  text-decoration: none;
+}
+
+.content a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+.content {
+  line-height: 1.7;
+}
+
+.news-cards {
+  max-width: 760px;
+  margin: 0 auto 64px;
+  display: grid;
+  gap: 14px;
+}
+
+.news-card {
+  display: block;
+  padding: 16px 18px;
+  border-radius: 12px;
+  border: 1px solid #f2cbd4;
+  background: #ffffff;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.news-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
+}
+
+.news-card strong {
+  display: block;
+  font-size: 1.05em;
+  line-height: 1.4;
+}
+
+.news-card span {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.9em;
+  color: #666;
+}
+</style>
+
+<!-- HERO -->
+<div class="hero" style="
+  text-align: center;
+  padding: 64px 20px 48px;
+  background: linear-gradient(180deg, #fdecef 0%, #ffffff 100%);
+  border-bottom: 1px solid #f2cbd4;
+  margin-bottom: 48px;
+">
+
+*Training statisticians and collaborating scientists through coursework, hands‑on research, and mentorship.*
+
+I teach graduate‑level courses in biostatistics and mentor masters and PhD students on methodological and applied research projects. I emphasize conceptual understanding of complex analyses and collaborative problem solving in real scientific settings.
+
+</div>
+
+<!-- MAIN CONTENT -->
+<div class="content" style="
+  max-width: 780px;
+  margin: 0 auto 48px;
+  font-size: 1.1em;
+">
 
 ## Students and Research Team
 
-In addition to teaching, I enjoy mentoring and working with students on masters and PhD level projects. If you are a current student interested in my research, contact me! If you are a prospective student, please [apply to our graduate program](https://www.public-health.uiowa.edu/biostatistics-faq/) - our admission's committee carefully reviews each application to admit a cohort of students.
+In addition to teaching, I enjoy mentoring students on masters‑ and PhD‑level research projects.  
+If you are a current University of Iowa student interested in my work, please contact me.  
+Prospective students are encouraged to apply through the **[Department of Biostatistics graduate program](https://www.public-health.uiowa.edu/biostatistics-faq/)**.
 
-#### PhD Students
+### PhD Students
 
 Stephanie Jansson
 
-#### Masters Preceptorships
+### Masters Preceptorships
 
-[Amy Wu](https://linktr.ee/amypwu) Project: Survival and Mediation Analysis of Race, Telomere Length, and Cancer Mortality, Fall 2023
+**[Amy Wu](https://www.public-health.uiowa.edu/seminar/preceptorship-reports-amy-wu-jake-alston-and-keeley-powers/)**  
+Survival and mediation analysis of race, telomere length, and cancer mortality  
+Fall 2023
 
-Dosten Kpozehouen Project: Prediction of Survival Time from Treatment: Case of Pancreatic Cancer, Spring 2024
+**[Dosten Kpozehouen](https://www.public-health.uiowa.edu/seminar/preceptorship-reports-mahoney-kpozehouen-jiang-and-johnson/)**
 
-Ryan Colburn, Fall 2025
+Prediction of survival time from treatment with application to pancreatic cancer  
+Spring 2024
 
-Brandon Gerhardt, Fall 2025
+**[Ryan Colburn](https://www.public-health.uiowa.edu/seminar/preceptorship-reports-colburn-hurley-and-shelton/)**  
+Surrogate Validation for Prostate Cancer Survival
 
-#### Lab News
+Fall 2025
 
-[Amy Wu receives Carol S. Gleich Development Award to present her research at ENAR 2024 in Baltimore.](https://www.public-health.uiowa.edu/news-items/recipients-of-dr-carol-s-gleich-development-award-announced-5/) Congrats, Amy!
+**[Brandon Gerhardt](https://www.public-health.uiowa.edu/seminar/preceptorship-reports-gerhardt-and-kakou/)**  
+Integrating external controls into type 1 diabetes randomized clinical trial data  
+Fall 2025
 
-[Amy Wu wins the Iowa Chapter of the ASA 2024 Best Poster Award.](https://x.com/asa_iowa/status/1780578523196875194) Congrats!
+## Lab News and Student Recognition
 
-Dosten Kpozehouen presents his research at the University of Iowa Cancer Center 2024 retreat, and wins 'Favorite Poster' at the 2025 Annual Meeting of the Iowa Chapter of the ASA. Nice work!
+<div class="news-cards">
+
+  <a class="news-card"
+     href="https://www.public-health.uiowa.edu/news-items/recipients-of-dr-carol-s-gleich-development-award-announced-5/"
+     target="_blank">
+    <strong>Amy Wu receives the Carol S. Gleich Development Award</strong>
+    <span>Award supports presentation of her research at ENAR 2024 in Baltimore</span>
+  </a>
+
+  <a class="news-card"
+     href="https://x.com/asa_iowa/status/1780578523196875194"
+     target="_blank">
+    <strong>Amy Wu wins Iowa Chapter of the ASA Best Poster Award</strong>
+    <span>Recognized for outstanding student research, 2024</span>
+  </a>
+
+## Lab News and Student Recognition
+
+<div class="news-cards">
+
+  <a class="news-card"
+     href="https://www.public-health.uiowa.edu/news-items/recipients-of-dr-carol-s-gleich-development-award-announced-5/"
+     target="_blank">
+    <strong>Amy Wu receives the Carol S. Gleich Development Award</strong>
+    <span>Award supports presentation of her research at ENAR 2024 in Baltimore</span>
+  </a>
+
+  <a class="news-card"
+     href="https://x.com/asa_iowa/status/1780578523196875194"
+     target="_blank">
+    <strong>Amy Wu wins Iowa Chapter of the ASA Best Poster Award</strong>
+    <span>Recognized for outstanding student research, 2024</span>
+  </a>
+
+<div class="news-card">
+  <strong>Dosten Kpozehouen presents at the University of Iowa Cancer Center retreat</strong>
+  <span>Research presentation as part of the annual Cancer Center retreat</span>
+</div>
+
+<div class="news-card">
+  <strong>Dosten Kpozehouen awarded Favorite Poster</strong>
+  <span>2025 Annual Meeting of the Iowa Chapter of the American Statistical Association</span>
+</div>
+
+</div>
+
+
 
 ## Graduate Courses
 
-I teach causal inference and introduction to longitudinal data analysis in the [Department of Biostatistics at the University of Iowa](https://catalog.registrar.uiowa.edu/courses/bios/). 
+I teach graduate‑level biostatistics courses in the **[University of Iowa course catalog](https://catalog.registrar.uiowa.edu/courses/bios/)**.
 
-#### BIOS:6650 Causal Inference (Spring 2023, Spring 2024, Spring 2025)
+### BIOS:6650 Causal Inference  
+Spring 2023, Spring 2024, Spring 2025, Spring 2026
 
-Causal inference overview, emphasis on inference in observational research; conceptual issues (e.g., counterfactuals, causal graphs, time-varying treatments/confounding), methods (e.g., inverse probability weighting, doubly robust estimators), and related applications (e.g., causal mediation analysis, quantitative bias analysis); for advanced biostatistics or epidemiology students.
+Overview of causal inference with emphasis on observational research. Topics include counterfactual frameworks, causal graphs, time‑varying treatments and confounding, inverse probability weighting, doubly robust estimation, causal mediation analysis, and quantitative bias analysis.
 
-#### BIOS:6310 Introductory Longitudinal Data Analysis (Fall 2023, Fall 2024,  Fall 2025)
+### BIOS:6310 Introductory Longitudinal Data Analysis  
+Fall 2023, Fall 2024, Fall 2025
 
-Introduction to statistical models and estimation methods for outcome variables (normal and non-normal) clustered or measured repeatedly in time or space; focus on applications and computer software methods for ANOVA based methods, hierarchical linear models, linear mixed models, correlated regression models, generalized estimating equations, and generalized linear mixed models.
-
-### Previous teaching-related experiences:
-
-- University of Michigan Department of Biostatistics 2019
-Tutor for Stochastic Processes
-
-- Girls Who Code, University of Michigan, Ann Arbor chapter 2018-2019
-Club and Data Science Summer Experience Facilitator
-
-- Mathematics Help, Coe College Mathematics Department 2015-2016
-Tutor in math help sessions
-
-- SAS Teaching Assistant, Coe College Psychology Department 2015-2016
-Taught SAS in Memory and Cognition Lab
-
-- Kids on Course Elementary Math Tutor, Harrison Elementary 2014-2016
-Tutor through United Way and Zach Johnson Foundation
+Introduction to statistical modeling of clustered and repeated‑measures data for continuous and non‑continuous outcomes. Emphasis on applications and computation using ANOVA‑based methods, hierarchical and mixed‑effects models, generalized estimating equations, and generalized linear mixed models.
 
