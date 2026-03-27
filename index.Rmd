@@ -1,38 +1,154 @@
 ---
-title: "Emily Roberts, PhD"
+title: ""
 ---
 
+<style>
+.hero a { 
+  color: #b45373;
+  text-decoration: none; 
+  font-weight: 500;
+}
+.hero a:hover { 
+  text-decoration: underline; 
+}
 
+.content a { 
+  color: #b45373; 
+  text-decoration: none; 
+}
+.content a:hover { 
+  text-decoration: underline; 
+}
 
-<div style="text-align: center; margin-top: 40px;">
- <h1></h1>
- <h3>Assistant Professor</h3>
- <h4>Department of Biostatistics</h4>
- <h4>College of Public Health</h4>
- <h4>University of Iowa</h4>
+.news li { 
+  margin-bottom: 14px; 
+}
+</style>
+
+<div class="hero" style="
+  text-align: center;
+  padding: 64px 20px 48px;
+  background: linear-gradient(180deg, #fdecef 0%, #ffffff 100%);
+  border-bottom: 1px solid #f2cbd4;
+  margin-bottom: 36px;
+">
+
+  <h1 style="margin-bottom: 8px;">Emily Roberts, PhD</h1>
+
+  <h3 style="margin: 6px 0; font-weight: 500;">
+    Assistant Professor of Biostatistics
+  </h3>
+
+  <p style="font-size: 1.05em; color: #555; margin-top: 6px;">
+    University of Iowa · College of Public Health
+  </p>
+
+  <p style="
+    margin: 22px auto 0;
+    max-width: 700px;
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #444;
+  ">
+    Statistical methodology for biomedical and public health research,
+    with a focus on meaningful interdisciplinary collaboration.
+  </p>
+
 </div>
 
-<div style="max-width: 800px; margin: 40px auto; line-height: 1.6; font-size: 1.1em;">
- <p>
+<div class="content" style="
+  max-width: 780px;
+  margin: 0 auto 48px;
+  line-height: 1.65;
+  font-size: 1.1em;
+">
 
+<p>
+Hi! I am an 
+<a href="https://www.public-health.uiowa.edu/people/emily-roberts/">
+assistant professor of biostatistics at the University of Iowa</a>.
+I enjoy developing statistical methodology that can be meaningfully applied
+in clinical and public health settings.
+</p>
 
-Hi! I am an [assistant professor of biostatistics at the University of Iowa](https://www.public-health.uiowa.edu/people/emily-roberts/). Welcome to my page where I have included a bit about myself and my work. I'm excited about statistical methodology that can be meaningfully used in a clinical setting. 
+<p>
+I completed my PhD in Biostatistics at the 
+<a href="https://sph.umich.edu/biostat/">University of Michigan</a> in 2022,
+where my dissertation focused on
+<em>Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials</em>.
+Previously, I graduated
+Summa Cum Laude from Coe College
+with a BA in mathematics and psychology.
+</p>
 
-I completed my PhD at the [Department of Biostatistics, University of Michigan](https://sph.umich.edu/biostat/) in 2022 with my PhD dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”. I earned my MS in biostatistics from Michigan in 2018 and graduated Summa Cum Laude in 2016 from Coe College with a BA in mathematics and psychology. My passion for medical research and ultimate career goals stem from my diagnosis of type I diabetes at the age of four. 
+<p>
+I was diagnosed with Type 1 diabetes at the age of four,
+and this continues to shape how I approach research,
+teaching, and collaboration.
+</p>
 
-## Exciting News and Stories
+</div>
 
-[Roberts to Lead University of Iowa Causal Inference Collaboratory](https://www.public-health.uiowa.edu/news-items/roberts-to-lead-collaboratory-focused-on-causal-inference-research/)
+---
 
-[University of Iowa's Meet the Faculty](https://www.public-health.uiowa.edu/news-items/meet-our-faculty-emily-roberts/)
+## Featured News & Stories
 
-[Running Beyond Type One: My T1D and PhD Journey](https://beyondtype1.org/nyc-marathon-phd-training-roberts/?fbclid=IwAR3PoOFonkJz3rMLkEic915zJj9_J_xiYNoIGRj29nnkdhoQbh51x1-Kjws)
+<div class="news" style="
+  max-width: 760px; 
+  margin: 0 auto; 
+  font-size: 1.05em; 
+  line-height: 1.6;
+">
 
-[Rackham Predoctoral Fellowship Recipients](https://rackham.umich.edu/predoctoral-fellowship-celebration/)
+<ul>
+  <li>
+    <strong>Roberts to Lead University of Iowa Causal Inference Collaboratory</strong><br>
+    <a href="https://www.public-health.uiowa.edu/news-items/roberts-to-lead-collaboratory-focused-on-causal-inference-research/">
+      University of Iowa College of Public Health
+    </a>
+  </li>
 
-[Kohawk Stories](https://www.coe.edu/why-coe/kohawk-stories/emily-roberts)
+  <li>
+    <strong>University of Iowa’s Meet the Faculty</strong><br>
+    <a href="https://www.public-health.uiowa.edu/news-items/meet-our-faculty-emily-roberts/">
+      College of Public Health
+    </a>
+  </li>
 
-[McElroy Fellowship](https://www.mcelroytrust.org/success-stories)
+  <li>
+    <strong>Running Beyond Type One: My T1D and PhD Journey</strong><br>
+    <a href="https://beyondtype1.org/nyc-marathon-phd-training-roberts/">
+      Beyond Type 1
+    </a>
+  </li>
 
-[The Gazette](https://www.thegazette.com/higher-education/coe-grad-receives-prestigious-fellowships/)
+  <li>
+    <strong>Rackham Predoctoral Fellowship Recipient</strong><br>
+    <a href="https://rackham.umich.edu/predoctoral-fellowship-celebration/">
+      University of Michigan
+    </a>
+  </li>
 
+  <li>
+    <strong>Kohawk Stories</strong><br>
+    <a href="https://www.coe.edu/why-coe/kohawk-stories/emily-roberts">
+      Coe College
+    </a>
+  </li>
+
+  <li>
+    <strong>McElroy Fellowship</strong><br>
+    <a href="https://www.mcelroytrust.org/success-stories">
+      McElroy Trust
+    </a>
+  </li>
+
+  <li>
+    <strong>The Gazette</strong><br>
+    <a href="https://www.thegazette.com/higher-education/coe-grad-receives-prestigious-fellowships/">
+      News Story
+    </a>
+  </li>
+</ul>
+
+</div>
