@@ -327,25 +327,27 @@ body {
 }
 
 /* Hero links */
-.hero a { 
+.hero a {
   color: #b45373;
-  text-decoration: none; 
+  text-decoration: none;
   font-weight: 500;
 }
-.hero a:hover { 
-  text-decoration: underline; 
+
+.hero a:hover {
+  text-decoration: underline;
 }
 
 /* Content links */
-.content a { 
-  color: #b45373; 
-  text-decoration: none; 
-}
-.content a:hover { 
-  text-decoration: underline; 
+.content a {
+  color: #b45373;
+  text-decoration: none;
 }
 
-/* Typography tweaks */
+.content a:hover {
+  text-decoration: underline;
+}
+
+/* Typography */
 h1 {
   font-family: 'Playfair Display', serif;
   font-weight: 600;
@@ -361,15 +363,44 @@ h3 {
   line-height: 1.7;
 }
 
-/* News styling */
-.news li { 
-  margin-bottom: 16px; 
+/* News cards without images */
+.news-cards {
+  max-width: 760px;
+  margin: 0 auto 64px;
+  display: grid;
+  gap: 14px;
 }
 
-.news a {
-  font-size: 0.95em;
+.news-card {
+  display: block;
+  padding: 16px 18px;
+  border-radius: 12px;
+  border: 1px solid #f2cbd4;
+  background: #ffffff;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.news-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
+}
+
+.news-card strong {
+  display: block;
+  font-size: 1.05em;
+  line-height: 1.4;
+}
+
+.news-card span {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.9em;
+  color: #666;
 }
 </style>
+<!-- HERO -->
 <div class="hero" style="
   text-align: center;
   padding: 64px 20px 48px;
@@ -377,45 +408,45 @@ h3 {
   border-bottom: 1px solid #f2cbd4;
   margin-bottom: 48px;
 ">
-<h1 style="margin-bottom: 8px;">
+<h1>
 Emily Roberts, PhD
 </h1>
-<h3 style="margin: 6px 0;">
+<h3>
 Assistant Professor of Biostatistics
 </h3>
-<p style="font-size: 1.05em; color: #555; margin-top: 6px;">
+<p style="font-size: 1.05em; color: #555;">
 University of Iowa · College of Public Health
 </p>
 <p style="
     margin: 22px auto 0;
     max-width: 700px;
     font-size: 1.1em;
-    line-height: 1.6;
     color: #444;
   ">
 Developing statistical methods for clinical trials and causal inference,
 grounded in real-world collaboration.
 </p>
 </div>
+<!-- MAIN CONTENT -->
 <div class="content" style="
   max-width: 780px;
   margin: 0 auto 48px;
   font-size: 1.1em;
 ">
 <p>
-Hi! I am an
-<a href="https://www.public-health.uiowa.edu/people/emily-roberts/">
-assistant professor of biostatistics at the University of Iowa</a>. I
+Hi. I am an
+<a href="https://www.public-health.uiowa.edu/people/emily-roberts/" target="_blank">
+assistant professor of biostatistics at the University of Iowa </a>. I
 enjoy developing statistical methodology that can be meaningfully
 applied in clinical and public health settings.
 </p>
 <p>
 I completed my PhD in Biostatistics at the
-<a href="https://sph.umich.edu/biostat/">University of Michigan</a> in
-2022, where my dissertation focused on <em>Causal Inference Methods and
-Intermediate Endpoints in Randomized Clinical Trials</em>. Previously, I
-graduated Summa Cum Laude from Coe College with a BA in mathematics and
-psychology.
+<a href="https://sph.umich.edu/biostat/" target="_blank"> University of
+Michigan </a> in 2022, where my dissertation focused on <em>Causal
+Inference Methods and Intermediate Endpoints in Randomized Clinical
+Trials</em>. Previously, I graduated Summa Cum Laude from Coe College
+with a BA in mathematics and psychology.
 </p>
 <p>
 Living with Type 1 diabetes since age four continues to shape how I
@@ -426,53 +457,28 @@ I am always interested in collaborative work in clinical trials, causal
 inference, and public health applications.
 </p>
 </div>
-<hr />
-<div id="featured-news-stories" class="section level2">
-<h2>Featured News &amp; Stories</h2>
-<div class="news" style="
-  max-width: 760px; 
-  margin: 0 auto; 
-  font-size: 1.05em; 
-  line-height: 1.6;
-">
-<ul style="padding-left: 18px;">
-<li>
-<strong>Roberts to Lead University of Iowa Causal Inference
-Collaboratory</strong><br>
-<a href="https://www.public-health.uiowa.edu/news-items/roberts-to-lead-collaboratory-focused-on-causal-inference-research/">
-Read more </a>
-</li>
-<li>
-<strong>University of Iowa’s Meet the Faculty</strong><br>
-<a href="https://www.public-health.uiowa.edu/news-items/meet-our-faculty-emily-roberts/">
-Read more </a>
-</li>
-<li>
-<strong>Running Beyond Type One: My T1D and PhD Journey</strong><br>
-<a href="https://beyondtype1.org/nyc-marathon-phd-training-roberts/">
-Read more </a>
-</li>
-<li>
-<strong>Rackham Predoctoral Fellowship Recipient</strong><br>
-<a href="https://rackham.umich.edu/predoctoral-fellowship-celebration/">
-Read more </a>
-</li>
-<li>
-<strong>Kohawk Stories</strong><br>
-<a href="https://www.coe.edu/why-coe/kohawk-stories/emily-roberts"> Read
-more </a>
-</li>
-<li>
-<strong>McElroy Fellowship</strong><br>
-<a href="https://www.mcelroytrust.org/success-stories"> Read more </a>
-</li>
-<li>
-<strong>The Gazette Feature</strong><br>
-<a href="https://www.thegazette.com/higher-education/coe-grad-receives-prestigious-fellowships/">
-Read more </a>
-</li>
-</ul>
-</div>
+<!-- FEATURED NEWS -->
+<h2 style="text-align:center; margin: 56px 0 24px;">
+Featured News and Stories
+</h2>
+<div class="news-cards">
+<p><a class="news-card"
+     href="https://www.public-health.uiowa.edu/news-items/roberts-to-lead-collaboratory-focused-on-causal-inference-research/"
+     target="_blank"> <strong>Roberts to Lead University of Iowa Causal
+Inference Collaboratory</strong> <span>University of Iowa · College of
+Public Health</span> </a></p>
+<p><a class="news-card"
+     href="https://www.public-health.uiowa.edu/news-items/meet-our-faculty-emily-roberts/"
+     target="_blank"> <strong>University of Iowa’s Meet the
+Faculty</strong> <span>College of Public Health</span> </a></p>
+<p><a class="news-card"
+     href="https://beyondtype1.org/nyc-marathon-phd-training-roberts/"
+     target="_blank"> <strong>Running Beyond Type One: My T1D and PhD
+Journey</strong> <span>Beyond Type 1</span> </a></p>
+<p><a class="news-card"
+     href="https://www.coe.edu/why-coe/kohawk-stories/emily-roberts"
+     target="_blank"> <strong>Kohawk Stories</strong> <span>Coe
+College</span> </a></p>
 </div>
 
 
