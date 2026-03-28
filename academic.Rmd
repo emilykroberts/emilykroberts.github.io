@@ -2,85 +2,132 @@
 title: "Academics"
 ---
 
-Here is an overview of my academic career (so far!). For more details on these, please take a look at my [CV](https://www.public-health.uiowa.edu/wp-content/uploads/2025/01/CV-Roberts-1-2025.pdf).
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
+
+<style>
+body {
+  font-family: 'Inter', sans-serif;
+  color: #333;
+}
+
+.hero a {
+  color: #b45373;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.hero a:hover {
+  text-decoration: underline;
+}
+
+.content a {
+  color: #b45373;
+  text-decoration: none;
+}
+
+.content a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+.content {
+  line-height: 1.7;
+}
+</style>
+
+<!-- HERO -->
+<div class="hero" style="
+  text-align: center;
+  padding: 64px 20px 48px;
+  background: linear-gradient(180deg, #fdecef 0%, #ffffff 100%);
+  border-bottom: 1px solid #f2cbd4;
+  margin-bottom: 48px;
+">
+
+For a complete record of my academic appointments, publications, teaching, and service, please see my  
+**[curriculum vitae](https://www.public-health.uiowa.edu/wp-content/uploads/2026/01/CV-Roberts-Jan2026.pdf)**.
+
+</div>
+
+<!-- MAIN CONTENT -->
+<div class="content" style="
+  max-width: 780px;
+  margin: 0 auto 48px;
+  font-size: 1.1em;
+">
 
 ## Education
 
-#### **PhD Biostatistics**, University of Michigan, 2016 - 2022
+### PhD in Biostatistics, University of Michigan, 2016–2022
 
-Dissertation “Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials”
+Dissertation: *Causal Inference Methods and Intermediate Endpoints in Randomized Clinical Trials*  
 
-Advisors: Drs. Jeremy Taylor and Michael Elliott
+Advisors: Jeremy Taylor and Michael Elliott
 
-#### **MS Biostatistics**, University of Michigan, 2018
+### MS in Biostatistics, University of Michigan, 2018
 
-#### **Bachelor of Arts, Mathematics and Psychology**, Coe College, Cedar Rapids, Iowa, 2016
+### Bachelor of Arts in Mathematics and Psychology, Coe College, 2016
 
-Summa Cum Laude 
+Summa Cum Laude  
+GPA 3.99  
 
-GPA 3.99, Mathematics Departmental Distinction, Scholar’s Program, 
-Honors thesis “Roommate Matching by Design” Advisor: Dr. Jonathan White
+Mathematics Departmental Distinction  
+Scholar’s Program Honors Thesis: *Roommate Matching by Design*  
+Advisor: Jonathan White
 
-## Awards and Distinctions
+## Selected Awards and Distinctions
 
-Phi Beta Kappa, Mortar Board, Psi Chi, Alpha Lambda Delta, Phi Kappa Phi, Delta Omega Honorary Society in Public Health
+Delta Omega Honorary Society in Public Health  
+University of Michigan School of Public Health Regents’ Fellowship, 2016  
+National Science Foundation Graduate Research Fellowship Program, 2016–2021  
+NIH Cancer Training Grant in Biostatistics, 2016–2017  
 
-Coe College Hunt Award in Mathematics 2015
-	
-Barry Goldwater Honorable Mention 2015
+University of Michigan Rackham Predoctoral Fellowship, 2021–2022  
+University of Michigan Department of Biostatistics Excellence in Research Award, Honorable Mention, 2021  
 
-R.J. McElroy Fellowship 2016
+Michigan Institute of Data Science Symposium, 2019  
+“Most Likely to Make an Impact in the Field” Award  
 
-University of Michigan School of Public Health Regents’ Fellowship Award 2016
+Michigan Student Symposium for Interdisciplinary Statistical Sciences, 2020  
+Best Speed Oral Presentation Award  
 
-National Science Foundation Graduate Research Fellowship Program 2016-2021
+Michigan Student Symposium for Interdisciplinary Statistics, 2021  
+Best Speed Oral Presentation Award  
 
-National Institutes of Health Cancer Training in Biostatistics Grant, 2016-2017
+Society for Clinical Trials, 2022  
+Best Poster Award  
 
-School of Public Health Unsung Hero Award 2020
+American Statistical Association Lifetime Data Science Paper Award, 2023  
 
-University of Michigan Rackham Predoctoral Fellowship 2021-2022
+Junior Faculty Opportunity Award, University of Iowa, 2023  
+New Faculty Research Award, University of Iowa, 2023  
 
-University of Michigan Department of Biostatistics Excellence in Research Honorable Mention 2021
+American Statistical Association Outstanding Chapter Service Award, 2024  
 
-Michigan Institute of Data Science Symposium November 2019: "Most Likely to Make an Impact in the Field" Award for Incorporating Subgroups in a Surrogate Endpoint Setting
+College of Public Health Faculty Teaching Award, University of Iowa, 2025  
 
-Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS) Annual Symposium February 2020: "Best Speed Oral Presentation" Presentation/Poster Award for Incorporating Subgroups in a Surrogate Endpoint Setting
+## Selected Grants and Awarded Funding
 
-Michigan Student Symposium for Interdisciplinary Statistics Symposium February 2021: "Best Speed Oral Presentation" Presentation/Poster Award for Validating Surrogate Endpoints with Longitudinal Outcomes
+**NINDS NeuroNEXT**  
+Coffey, C. (PI) · 09/2022–Present  
+Role: Co‑Investigator  
 
-Society for Clinical Trials May 2022, Best Poster Award for Evaluating Intermediate Clinical Endpoints for Futility Analysis in Clinical Trials
+**Pilot Grant, College of Public Health New Faculty Research Award**  
+Role: Principal Investigator  
+Project: Evaluating surrogate markers in a diabetes clinical trial using longitudinal and causal inference methods  
 
-American Statistical Association Lifetime Data Science 2023 Paper Award
+**Causal Inference Collaboratory Pilot Funding**  
+IPHPRP, University of Iowa · 08/2024–07/2025  
+Role: Principal Investigator  
 
-Junior Faculty Opportunity Award, University of Iowa 2023
-
-New Faculty Research Award, University of Iowa 2023
-
-American Statistical Association Outstanding Chapter Service Award, ASA 2024
-
-College of Public Health Faculty Teaching Award, University of Iowa 2025
-
-## Grants and Awarded Funding 
-
-National Institute of Neurological Disorders and Stroke (NINDS) NeuroNEXT. U01 NS077352-11. Coffey, C. PI. 09/2022-Present. Role: Co-Investigator.
-
-University of Iowa Center for Public Health Statistics. Oleson, J. PI. 10/2022-Present. Role: Co-Investigator.
-
-Pilot Grant, College of Public Health New Faculty Research Award. Role: PI on Project Evaluating Surrogate Markers in a Diabetes Clinical Trial with Longitudinal Measures and Causal Inference Methods.
-
-Causal Inference Collaboratory Pilot Funding. IPHPRP University of Iowa.  Role:  PI. 08/2024-07/2025.
-
-Completed
-
-NIH U24 AG066528-01: Telomere Research Network, Telomere Research Network Analysis Award, 2020-2021, $4,000, (PI: Stacy Drury). Role: Co-PI on project exploring mediation of the Black/White telomere length difference by persistent organic pollutant exposure.
-
-WSDS Travel Grant 2022, Rackham Graduate Travel Grant 2018, 2019, 2021, 2022, Michigan Institute of Data Science Travel Grant 2019, SAMSI Travel Grant 2019, Telomere Network Analysis Award and Travel Grant 2020, 2021,
-Women in Statistics and Data Science 2022 Travel Grant,
-JSM 2023 Paper and Travel Award, LiDS Section, Carol Gleich Travel Award 2025
-
-## Society Membership
-
-American Statistical Association, ENAR, Society for Clinical Trials, Caucus for Women in Statistics
-
-
+Additional travel and career development awards include support from WSDS, Rackham Graduate School, SAMSI, the Telomere Network, JSM, LiDS Section, and the Carol S. Gleich Travel Award.
