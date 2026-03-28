@@ -126,7 +126,7 @@ h3 {
       assistant professor of biostatistics at the University of Iowa.
     </a>
     I enjoy developing statistical methodology that can be meaningfully applied
-    in clinical and public health settings. I am always interested in collaborating on clinical trials,
+    in clinical and public health settings. I am also always interested in collaborating on clinical trials,
     causal inference, and beyond.
   </p>
 
@@ -157,6 +157,14 @@ h3 {
 </h2>
 
 <div class="news-cards">
+
+<a class="news-card"
+   href="https://www.public-health.uiowa.edu/faculty-awards/"
+   target="_blank">
+  <strong>Emily Roberts receives University of Iowa faculty teaching recognition</strong>
+  <span>College of Public Health · Faculty Awards</span>
+</a>
+
 
   <a class="news-card"
      href="https://www.public-health.uiowa.edu/news-items/roberts-to-lead-collaboratory-focused-on-causal-inference-research/"

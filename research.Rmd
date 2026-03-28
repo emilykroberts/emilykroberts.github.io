@@ -98,7 +98,7 @@ h3 {
 *Developing and applying statistical methodology for clinical trials and causal inference, grounded in real‑world scientific collaboration.*
 
 
-At the University of Iowa, I am building and leading interdisciplinary research partnerships through our **[Causal Inference Collaboratory](https://iphprp.org/opportunities/faculty/collaboratories/causal-inference/)** and am involved in multicenter clinical trials through our **[Clinical Trials Statistical and Data Management Center via the Data Coordinating Center and NeuroNEXT](https://neuronext.org/profile/emily-roberts-phd/)**. A central focus of my work is at the overlap, such as the evaluation and validation of *surrogate and intermediate endpoints* in clinical trials. More broadly, my methodological interests include:
+At the University of Iowa, I am building and leading interdisciplinary research partnerships through our **[Causal Inference Collaboratory](https://iphprp.org/opportunities/faculty/collaboratories/causal-inference/)** and am involved in multicenter design and analysis of clinical trials through our **[Clinical Trials Statistical and Data Management Center via the Data Coordinating Center and NeuroNEXT](https://neuronext.org/profile/emily-roberts-phd/)**. A central focus of my work is at the overlap of these topics, such as the evaluation and validation of *surrogate and intermediate endpoints* in clinical trials. More broadly, my methodological interests include:
 
 Clinical trial design and analysis  
 Causal inference  
