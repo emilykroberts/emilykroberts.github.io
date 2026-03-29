@@ -92,7 +92,7 @@ h3 {
 
 *Training statisticians and collaborating scientists through coursework, hands‑on research, and mentorship.*
 
-I teach graduate‑level courses in biostatistics and mentor masters and PhD students on methodological and applied research projects. I emphasize conceptual understanding of complex analyses and collaborative problem solving in real scientific settings.
+I teach graduate‑level courses in biostatistics and mentor masters and PhD students on methodological and applied research projects. I emphasize conceptual understanding of complex analyses and collaborative problem solving in scientific settings.
 
 </div>
 
@@ -109,11 +109,11 @@ In addition to teaching, I enjoy mentoring students on masters‑ and PhD‑leve
 If you are a current University of Iowa student interested in my work, please contact me.  
 Prospective students are encouraged to apply through the **[Department of Biostatistics graduate program](https://www.public-health.uiowa.edu/biostatistics-faq/)**.
 
-### PhD Students
+#### PhD Students
 
 Stephanie Jansson
 
-### Masters Preceptorships
+#### Masters Preceptorships
 
 **[Amy Wu](https://www.public-health.uiowa.edu/seminar/preceptorship-reports-amy-wu-jake-alston-and-keeley-powers/)**  
 Survival and mediation analysis of race, telomere length, and cancer mortality  
@@ -151,32 +151,19 @@ Fall 2025
     <span>Recognized for outstanding student research, 2024</span>
   </a>
 
-## Lab News and Student Recognition
-
-<div class="news-cards">
-
-  <a class="news-card"
-     href="https://www.public-health.uiowa.edu/news-items/recipients-of-dr-carol-s-gleich-development-award-announced-5/"
-     target="_blank">
-    <strong>Amy Wu receives the Carol S. Gleich Development Award</strong>
-    <span>Award supports presentation of her research at ENAR 2024 in Baltimore</span>
-  </a>
-
-  <a class="news-card"
-     href="https://x.com/asa_iowa/status/1780578523196875194"
-     target="_blank">
-    <strong>Amy Wu wins Iowa Chapter of the ASA Best Poster Award</strong>
-    <span>Recognized for outstanding student research, 2024</span>
-  </a>
-
 <div class="news-card">
   <strong>Dosten Kpozehouen presents at the University of Iowa Cancer Center retreat</strong>
-  <span>Research presentation as part of the annual Cancer Center retreat</span>
+  <span>Research presentation as part of the annual Cancer Center retreat, 2024</span>
 </div>
 
 <div class="news-card">
   <strong>Dosten Kpozehouen awarded Favorite Poster</strong>
   <span>2025 Annual Meeting of the Iowa Chapter of the American Statistical Association</span>
+</div>
+
+<div class="news-card">
+  <strong>Stephanie Janssen presents poster</strong>
+  <span>2026 Annual Meeting of the Iowa Chapter of the American Statistical Association</span>
 </div>
 
 </div>
@@ -187,12 +174,12 @@ Fall 2025
 
 I teach graduate‑level biostatistics courses in the **[University of Iowa course catalog](https://catalog.registrar.uiowa.edu/courses/bios/)**.
 
-### BIOS:6650 Causal Inference  
+#### BIOS:6650 Causal Inference  
 Spring 2023, Spring 2024, Spring 2025, Spring 2026
 
 Overview of causal inference with emphasis on observational research. Topics include counterfactual frameworks, causal graphs, time‑varying treatments and confounding, inverse probability weighting, doubly robust estimation, causal mediation analysis, and quantitative bias analysis.
 
-### BIOS:6310 Introductory Longitudinal Data Analysis  
+#### BIOS:6310 Introductory Longitudinal Data Analysis  
 Fall 2023, Fall 2024, Fall 2025
 
 Introduction to statistical modeling of clustered and repeated‑measures data for continuous and non‑continuous outcomes. Emphasis on applications and computation using ANOVA‑based methods, hierarchical and mixed‑effects models, generalized estimating equations, and generalized linear mixed models.
