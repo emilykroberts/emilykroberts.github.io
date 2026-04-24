@@ -105,7 +105,7 @@ I teach graduate‑level courses in biostatistics and mentor masters and PhD stu
 
 ## Students and Research Team
 
-In addition to teaching, I enjoy mentoring students on masters‑ and PhD‑level research projects.  
+In addition to teaching, I mentor several students on masters‑ and PhD‑level research projects.  
 If you are a current University of Iowa student interested in my work, please contact me.  
 Prospective students are encouraged to apply through the **[Department of Biostatistics graduate program](https://www.public-health.uiowa.edu/biostatistics-faq/)**.
 
@@ -126,12 +126,23 @@ Spring 2024
 
 **[Ryan Colburn](https://www.public-health.uiowa.edu/seminar/preceptorship-reports-colburn-hurley-and-shelton/)**  
 Surrogate Validation for Prostate Cancer Survival
-
 Fall 2025
 
 **[Brandon Gerhardt](https://www.public-health.uiowa.edu/seminar/preceptorship-reports-gerhardt-and-kakou/)**  
 Integrating external controls into type 1 diabetes randomized clinical trial data  
+
 Fall 2025
+
+**[Tian Zhao](https://www.public-health.uiowa.edu/seminar/preceptorship-presentations-zhao-steinmetz-wallace-and-tertyshnaia/)**
+
+Bayesian Methods for Futility Analysis in Prostate Cancer Trials
+
+Spring 2026
+
+**[Braden Wallace](https://www.public-health.uiowa.edu/seminar/preceptorship-presentations-zhao-steinmetz-wallace-and-tertyshnaia/)**
+
+Causal Inference for Non Compliance
+Spring 2026
 
 ## Lab News and Student Recognition
 
@@ -172,7 +183,7 @@ Fall 2025
 
 ## Graduate Courses
 
-I teach graduate‑level biostatistics courses in the **[University of Iowa course catalog](https://catalog.registrar.uiowa.edu/courses/bios/)**.
+I teach graduate‑level biostatistics courses in the **[University of Iowa course catalog](https://catalog.registrar.uiowa.edu/courses/bios/)** to MS and PhD students in biostatistics and beyond.
 
 #### BIOS:6650 Causal Inference  
 Spring 2023, Spring 2024, Spring 2025, Spring 2026
